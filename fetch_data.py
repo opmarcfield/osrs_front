@@ -11,7 +11,7 @@ DB_PASS = os.getenv('DB_PASS')
 DB_HOST = os.getenv('DB_HOST')
 DB_PORT = os.getenv('DB_PORT')
 
-# SQL queries to fetch xp & pvm data, limited last week
+# SQL queries to fetch xp & pvm data, limited to last weeks data
 SQL_QUERY_EXPERIENCE = """
 SELECT * FROM weekly_experience_summary
 
