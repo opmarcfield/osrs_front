@@ -1,0 +1,31 @@
+name: Update Website Data
+
+on:
+  schedule:
+    # Runs every day at 9:00 UTC
+    - cron:  '0 9 * * *'
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run fetch_data script
+        run: python fetch_data.py
+      - name: Commit files
+        run: |
+          git config --global user.email "o11ey@hotmail.com"
+          git config --global user.name "opmarcfield"
+          git add .
+          git commit -m "Update data" -a || echo "No changes to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
