@@ -1,0 +1,15 @@
+{{ define "main" }}
+    <h1>Data from PostgreSQL</h1>
+    <h2>Player Overall Experience</h2>
+    <ul>
+        {{ range .Site.Data.data_experience }}
+        <li>{{ .player_name }} - Overall Experience: {{ .overall_experience }} ({{ .timestamp | dateFormat "January 2, 2006" }})</li>
+        {{ end }}
+    </ul>
+    <h2>Player Overall PvM</h2>
+    <ul>
+        {{ range .Site.Data.data_pvm }}
+        <li>{{ .player_name }} - Raids: {{ .overall_raids }}, Bosses: {{ .overall_bosses }} ({{ .timestamp | dateFormat "January 2, 2006" }})</li>
+        {{ end }}
+    </ul>
+{{ end }}
