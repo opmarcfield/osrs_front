@@ -1,9 +1,10 @@
 name: Update Website Data
 
 on:
-  schedule:
-    # Runs every day at 9:00 UTC
-    - cron:  '0 9 * * *'
+    schedule:
+      # Runs every day at 9:00 UTC
+      - cron:  '0 9 * * *'
+    workflow_dispatch:  # This line enables manual trigger
 
 jobs:
   update_data:
