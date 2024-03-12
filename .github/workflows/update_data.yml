@@ -15,8 +15,14 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-github-actions.txt
       - name: Run fetch_data script
+        env:
+            DB_NAME: ${{ secrets.DB_NAME }}
+            DB_USER: ${{ secrets.DB_USER }}
+            DB_PASS: ${{ secrets.DB_PASS }}
+            DB_HOST: ${{ secrets.DB_HOST }}
+            DB_PORT: ${{ secrets.DB_PORT }}
         run: python fetch_data.py
       - name: Commit files
         run: |
