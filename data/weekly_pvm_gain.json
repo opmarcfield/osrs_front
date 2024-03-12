@@ -1,5 +1,15 @@
 [
     {
+        "player_name": "interwebfrog",
+        "week_start_date": "2024-03-11",
+        "raids_start": -6,
+        "raids_end": -6,
+        "raids_increase": 0,
+        "bosses_start": 1753,
+        "bosses_end": 1753,
+        "bosses_increase": 0
+    },
+    {
         "player_name": "Dub Tbow",
         "week_start_date": "2024-03-11",
         "raids_start": 774,
@@ -8,6 +18,16 @@
         "bosses_start": 53188,
         "bosses_end": 53194,
         "bosses_increase": 6
+    },
+    {
+        "player_name": "Pure Tristan",
+        "week_start_date": "2024-03-11",
+        "raids_start": 16,
+        "raids_end": 16,
+        "raids_increase": 0,
+        "bosses_start": 17588,
+        "bosses_end": 17608,
+        "bosses_increase": 20
     },
     {
         "player_name": "EavesBeBaked",
@@ -37,16 +57,6 @@
         "raids_increase": 4,
         "bosses_start": 28732,
         "bosses_end": 28732,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2024-03-11",
-        "raids_start": 16,
-        "raids_end": 16,
-        "raids_increase": 0,
-        "bosses_start": 17588,
-        "bosses_end": 17588,
         "bosses_increase": 0
     },
     {

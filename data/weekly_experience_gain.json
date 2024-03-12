@@ -17,8 +17,8 @@
         "player_name": "nodle boy",
         "week_start": "2024-03-11",
         "start_experience": 126351753,
-        "end_experience": 126351753,
-        "experience_gain": 0
+        "end_experience": 126420378,
+        "experience_gain": 68625
     },
     {
         "player_name": "Hoarseness",
@@ -31,8 +31,15 @@
         "player_name": "Dub Tbow",
         "week_start": "2024-03-11",
         "start_experience": 613508900,
-        "end_experience": 613999764,
-        "experience_gain": 490864
+        "end_experience": 614004784,
+        "experience_gain": 495884
+    },
+    {
+        "player_name": "interwebfrog",
+        "week_start": "2024-03-11",
+        "start_experience": 197590083,
+        "end_experience": 197590083,
+        "experience_gain": 0
     },
     {
         "player_name": "Gael L",
@@ -52,8 +59,8 @@
         "player_name": "Pure Tristan",
         "week_start": "2024-03-11",
         "start_experience": 345127931,
-        "end_experience": 345127931,
-        "experience_gain": 0
+        "end_experience": 345155395,
+        "experience_gain": 27464
     },
     {
         "player_name": "ArtiMeyer",
