@@ -1,8 +1,8 @@
 {{ define "main" }}
-    <h1 style="text-align: center;">LEADERBOARDS</h1>
+    <h1 style="text-align: center;border: 3px solid #5e403a; padding: 8px; background-color: #9a765f;">LEADERBOARDS</h1>
     
     {{ with index .Site.Data.weekly_experience_gain 0 }}
-        <h2 style="text-align: center;"></h2style>Overall XP gains since {{ .week_start | dateFormat "January 2, 2006" }}</h2>
+        <h2 style="text-align: center;font-style: italic;"></h2style>Overall XP gains since {{ .week_start | dateFormat "January 2, 2006" }}</h2>
     {{ end }}
     <table id = "xp-table">
         <thead>
@@ -27,7 +27,7 @@
     </table>
     
     {{ with index .Site.Data.weekly_experience_gain 0 }}
-    <h2 style="text-align: center;"></h2style>PvM gains since {{ .week_start | dateFormat "January 2, 2006" }}</h2>
+    <h2 style="text-align: center;font-style: italic;"></h2style>PvM gains since {{ .week_start | dateFormat "January 2, 2006" }}</h2>
     {{ end }}
     <table id = "pvm-table">
         <thead>
@@ -78,7 +78,7 @@
         <div class="top-box">
             <img src="/images/mvp_logo.png" alt="Crown" class="crown-icon">
             <h3>XP MvP of the week</h3>
-            <p>{{ $topPerformers.top_xp_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_xp_gain.experience_gain }} XP gains</p>
+            <p>{{ $topPerformers.top_xp_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_xp_gain.experience_gain }} XP gained</p>
         </div>
         <div class="top-box">
             <img src="/images/mvp_logo.png" alt="Crown" class="crown-icon">
@@ -88,7 +88,7 @@
         <div class="top-box">
             <img src="/images/mvp_logo.png" alt="Crown" class="crown-icon">
             <h3>Boss MvP of the week</h3>
-            <p>{{ $topPerformers.top_bosses_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_bosses_gain.bosses_increase }} killcounts</p>
+            <p>{{ $topPerformers.top_bosses_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_bosses_gain.bosses_increase }} kills</p>
         </div>
     </div>
 

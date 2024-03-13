@@ -26,17 +26,26 @@ table {
   color: #333333; /* Dark gray for text */
 }
 
-th, td {
+
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  background-color: #9a765f; /* Background color for table headers */
+  color: #ffffff; /* Text color for table headers */
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #FDFDFD;
+  background-color: #cfb3a2;
 }
 tr:nth-child(odd) {
-  background-color: #FDFDFD;
+  background-color: #cfb3a2;
 }
 
 .top-performers {
@@ -50,6 +59,7 @@ tr:nth-child(odd) {
   border: 2px solid #ccc !important;
   border-radius: 5px !important;
   text-align: center; 
+  background-color: #9a765f; 
 }
 
 .crown-icon {
