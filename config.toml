@@ -4,3 +4,4 @@ title = 'FS'
 theme = 'ananke'
 [params]
   body_classes = "avenir bg-washed-yellow"
+  custom_css = ["custom.css"]
