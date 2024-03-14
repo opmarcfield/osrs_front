@@ -39,6 +39,7 @@ table {
   border-collapse: collapse;
   background-color: #FFF8E7; /* Light cream */
   color: #333333; /* Dark gray for text */
+  opacity: 0.9;
 }
 
 .xp-table {
@@ -79,6 +80,7 @@ tr:nth-child(odd) {
   display: flex;
   justify-content: space-around;
   margin-top: 75px;
+  opacity: 0.85;
 }
 
 .top-box {
@@ -110,6 +112,7 @@ tr:nth-child(odd) {
   background-color: #9a765f;
   width: calc(100% - 40px); /* Adjust the width to account for the margin */
   margin: 20px auto; /* Center the table with equal margins on both sides */
+  opacity: 0.8;
 }
 
 .image-container {
@@ -118,6 +121,7 @@ tr:nth-child(odd) {
   width: calc(100% - 40px); /* Adjust the width to account for the margin */
   margin-left: 20px; /* 20px space on the left side */
   margin-right: 20px; /* 20px space on the right side */
+  opacity: 0.8;
 }
 
 .image-container img {
