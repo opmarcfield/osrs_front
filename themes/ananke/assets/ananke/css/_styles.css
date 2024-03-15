@@ -98,6 +98,14 @@ tr:nth-child(odd) {
   height: auto; /* Keep the aspect ratio */
 }
 
+.custom-hr {
+  border: 0;
+  height: 2px;
+  background-color: #ccc; /* Match the border color of the box or choose a color */
+  margin: 10px auto; /* Add some vertical space around the line */
+  width: 80%; /* Adjust the width of the line as per design requirements */
+}
+
 .cover {
   background-size: cover;
   background-position: center; /* Centers the background image */

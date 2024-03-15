@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <h1 class="leaderboard-title">FASHIONSTAND WEEKLY LEADERBOARDS</h1>
+    <h1 class="leaderboard-title">WEEKLY LEADERBOARDS</h1>
     
     {{ with index .Site.Data.weekly_experience_gain 0 }}
         <h2 style="text-align: center;font-style: italic;"></h2style>Overall XP gains since {{ .week_start | dateFormat "January 2, 2006" }}</h2>
@@ -109,19 +109,25 @@
     <div class="content-container">
     <div class="top-performers">
         <div class="top-box">
-            <img src="/images/osrs_crown.webp" alt="Crown" class="crown-icon">
-            <h3>XP MvP of the week</h3>
-            <p>{{ $topPerformers.top_xp_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_xp_gain.experience_gain }} XP gained</p>
+          <p>XP MvP of the week</p>
+          <hr class="custom-hr">
+          <h3>{{ $topPerformers.top_xp_gain.player_name }}</h3>
+          <img src="/images/osrs_crown.webp" alt="Crown" class="crown-icon">
+          <p>{{ printf "%.0f" $topPerformers.top_xp_gain.experience_gain }} XP gained</p>
         </div>
         <div class="top-box">
+            <p>Raids MvP of the week</p>
+            <hr class="custom-hr">
+            <h3>{{ $topPerformers.top_raids_gain.player_name }}</h3>
             <img src="/images/osrs_crown.webp" alt="Crown" class="crown-icon">
-            <h3>Raids MvP of the week</h3>
-            <p>{{ $topPerformers.top_raids_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_raids_gain.raids_increase }} raids done</p>
+            <p>{{ printf "%.0f" $topPerformers.top_raids_gain.raids_increase }} raids done</p>
         </div>
         <div class="top-box">
+            <p>Boss MvP of the week</p>
+            <hr class="custom-hr">
+            <h3>{{ $topPerformers.top_bosses_gain.player_name }}</h3>
             <img src="/images/osrs_crown.webp" alt="Crown" class="crown-icon">
-            <h3>Boss MvP of the week</h3>
-            <p>{{ $topPerformers.top_bosses_gain.player_name }} with {{ printf "%.0f" $topPerformers.top_bosses_gain.bosses_increase }} kills</p>
+            <p>{{ printf "%.0f" $topPerformers.top_bosses_gain.bosses_increase }} kills</p>
         </div>
     </div>
     </div>
