@@ -1,20 +1,20 @@
 {
     "top_xp_gain": {
-        "player_name": "interwebfrog",
+        "player_name": "Dub Tbow",
         "week_start": "2024-03-11",
-        "start_experience": 197590083,
-        "end_experience": 200244344,
-        "experience_gain": 2654261
+        "start_experience": 616619671,
+        "end_experience": 616619671,
+        "experience_gain": 3110771
     },
     "top_raids_gain": {
-        "player_name": "Gael L",
+        "player_name": "Dub Tbow",
         "week_start_date": "2024-03-11",
-        "raids_start": 282,
-        "raids_end": 310,
-        "raids_increase": 28,
-        "bosses_start": 4940,
-        "bosses_end": 4940,
-        "bosses_increase": 0
+        "raids_start": 807,
+        "raids_end": 807,
+        "raids_increase": 33,
+        "bosses_start": 53297,
+        "bosses_end": 53297,
+        "bosses_increase": 109
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
@@ -22,8 +22,8 @@
         "raids_start": 16,
         "raids_end": 16,
         "raids_increase": 0,
-        "bosses_start": 17588,
-        "bosses_end": 17806,
-        "bosses_increase": 218
+        "bosses_start": 17822,
+        "bosses_end": 17822,
+        "bosses_increase": 234
     }
 }
