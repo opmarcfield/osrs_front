@@ -13,74 +13,12 @@ DB_PORT = os.getenv('DB_PORT')
 
 # SQL queries to fetch xp & pvm data, limited to last weeks data
 SQL_QUERY_EXPERIENCE = """
-WITH PreviousExperience AS (
-    SELECT
-        player_name,
-        week_start,
-        LAG(start_experience) OVER (PARTITION BY player_name ORDER BY week_start) AS previous_start_experience,
-        LAG(week_start) OVER (PARTITION BY player_name ORDER BY week_start) AS previous_week_start
-    FROM
-        weekly_experience_summary
-)
-SELECT
-    ws.player_name,
-    CASE 
-        WHEN ws.experience_gain = 0 AND pe.previous_start_experience IS NOT NULL AND EXTRACT(DOW FROM ws.week_start) = 1
-        THEN pe.previous_week_start
-        ELSE ws.week_start 
-    END AS week_start,
-    ws.start_experience,
-    ws.end_experience,
-    CASE
-        WHEN ws.experience_gain = 0 AND pe.previous_start_experience IS NOT NULL AND EXTRACT(DOW FROM ws.week_start) = 1
-        THEN ws.start_experience - pe.previous_start_experience
-        ELSE ws.experience_gain
-    END AS experience_gain
-FROM
-    weekly_experience_summary ws
-JOIN
-    PreviousExperience pe ON ws.player_name = pe.player_name AND ws.week_start = pe.week_start
-WHERE
-    ws.week_start = (SELECT MAX(week_start) FROM weekly_experience_summary);
+select * from weekly_experience_summary
+where week_start = (SELECT MAX(week_start) FROM weekly_experience_summary);
 """
 SQL_QUERY_PVM = """
-WITH PreviousWeekData AS (
-    SELECT
-        player_name,
-        week_start_date,
-        raids_start,
-        raids_end,
-        bosses_start,
-        bosses_end,
-        LAG(week_start_date) OVER (PARTITION BY player_name ORDER BY week_start_date) AS prev_week_start_date, -- Fetches the previous week's start date
-        LAG(raids_start) OVER (PARTITION BY player_name ORDER BY week_start_date) AS prev_raids_start,
-        LAG(bosses_start) OVER (PARTITION BY player_name ORDER BY week_start_date) AS prev_bosses_start
-    FROM
-        weekly_pvm_summary 
-)
-SELECT
-    pwd.player_name,
-    CASE 
-        WHEN EXTRACT(DOW FROM pwd.week_start_date) = 1 THEN pwd.prev_week_start_date -- Display previous week's date on Mondays
-        ELSE pwd.week_start_date -- Otherwise, display current week's date
-    END AS week_start_date,
-    pwd.raids_start,
-    pwd.raids_end,
-    CASE
-        WHEN EXTRACT(DOW FROM pwd.week_start_date) = 1 THEN pwd.raids_start - COALESCE(pwd.prev_raids_start, pwd.raids_start) -- Calculation for Mondays
-        ELSE pwd.raids_end - pwd.raids_start -- Default calculation for other days
-    END AS raids_increase,
-    pwd.bosses_start,
-    pwd.bosses_end,
-    CASE
-        WHEN EXTRACT(DOW FROM pwd.week_start_date) = 1 THEN pwd.bosses_start - COALESCE(pwd.prev_bosses_start, pwd.bosses_start) -- Calculation for Mondays
-        ELSE pwd.bosses_end - pwd.bosses_start -- Default calculation for other days
-    END AS bosses_increase
-FROM
-    PreviousWeekData pwd
-WHERE
-    pwd.week_start_date = (SELECT MAX(week_start_date) FROM weekly_pvm_summary); -- Ensures only the latest week's data is considered
-
+SELECT * FROM weekly_pvm_summary 
+WHERE week_start_date = (SELECT MAX(week_start_date) FROM weekly_pvm_summary);
 """
 
 # Custom JSON encoder for datetime objects
