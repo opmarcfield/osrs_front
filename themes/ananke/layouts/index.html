@@ -78,10 +78,31 @@
       </div>
     <script>
         function sortTable() {
-            var table = document.getElementById("xp-table");
-            var rows = Array.from(table.rows).slice(1); // Exclude the header row
-            rows.sort((a, b) => parseFloat(b.cells[1].textContent) - parseFloat(a.cells[1].textContent));
-            rows.forEach(row => table.appendChild(row));
+        var table = document.getElementById("xp-table");
+        var rows = Array.from(table.rows).slice(1); // Exclude the header row
+        rows.sort((a, b) => parseFloat(b.cells[1].textContent.replace(/,/g, '')) - parseFloat(a.cells[1].textContent.replace(/,/g, '')));
+        
+        rows.forEach(row => table.appendChild(row));
+    
+        // Reapply number formatting after sorting
+        rows.forEach(row => {
+            const xpCell = row.cells[1]; // Assuming XP is in the second column
+            const xp = parseFloat(xpCell.textContent.replace(/,/g, ''));
+            if (!isNaN(xp)) {
+                xpCell.textContent = xp.toLocaleString();
+            }
+        });
+        // Format the XP MvP of the week section
+        const mvpXpGainElement = document.querySelector('.xp-gain-mvp');
+        if (mvpXpGainElement) {
+            // Extracting the number might require a more specific selection depending on your markup
+            // Here, we assume the format "<number> XP gained" and remove the " XP gained" part before parsing
+            const xpText = mvpXpGainElement.textContent.replace(' XP gained', '');
+            const xpGain = parseInt(xpText.replace(/,/g, ''), 10);
+            if (!isNaN(xpGain)) {
+                mvpXpGainElement.textContent = xpGain.toLocaleString() + ' XP gained';
+                }
+            }
         }
     
         function sortRaidsTable() {
@@ -113,7 +134,7 @@
           <hr class="custom-hr">
           <h3>{{ $topPerformers.top_xp_gain.player_name }}</h3>
           <img src="/images/osrs_crown.webp" alt="Crown" class="crown-icon">
-          <p>{{ printf "%.0f" $topPerformers.top_xp_gain.experience_gain }} XP gained</p>
+          <p class="xp-gain-mvp">{{ printf "%.0f" $topPerformers.top_xp_gain.experience_gain }} XP gained</p>
         </div>
         <div class="top-box">
             <p>Raids MvP of the week</p>
