@@ -2,7 +2,7 @@ name: Update Website Data
 
 on:
   schedule:
-    # Runs every day at 7:00AM UTC except Monday
+    # Runs only on mondays
     - cron:  '0 10 * * 1'
   workflow_dispatch:
 
