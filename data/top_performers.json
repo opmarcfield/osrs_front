@@ -3,27 +3,27 @@
         "player_name": "interwebfrog",
         "week_start": "2024-03-18",
         "start_experience": 200675128,
-        "end_experience": 201798875,
-        "experience_gain": 1123747
+        "end_experience": 201955532,
+        "experience_gain": 1280404
     },
     "top_raids_gain": {
-        "player_name": "daddy thor",
+        "player_name": "nodle boy",
         "week_start_date": "2024-03-18",
-        "raids_start": 7308,
-        "raids_end": 7315,
-        "raids_increase": 7,
-        "bosses_start": 24464,
-        "bosses_end": 24464,
+        "raids_start": 235,
+        "raids_end": 243,
+        "raids_increase": 8,
+        "bosses_start": 6469,
+        "bosses_end": 6469,
         "bosses_increase": 0
     },
     "top_bosses_gain": {
-        "player_name": "Dub Tbow",
+        "player_name": "Pure Tristan",
         "week_start_date": "2024-03-18",
-        "raids_start": 807,
-        "raids_end": 810,
-        "raids_increase": 3,
-        "bosses_start": 53297,
-        "bosses_end": 53334,
-        "bosses_increase": 37
+        "raids_start": 16,
+        "raids_end": 16,
+        "raids_increase": 0,
+        "bosses_start": 17822,
+        "bosses_end": 17923,
+        "bosses_increase": 101
     }
 }
