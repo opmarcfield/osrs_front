@@ -2,17 +2,17 @@
     "top_xp_gain": {
         "player_name": "interwebfrog",
         "week_start": "2024-03-18",
-        "start_experience": 200675128,
+        "start_experience": 203989112,
         "end_experience": 203989112,
         "experience_gain": 3313984
     },
     "top_raids_gain": {
         "player_name": "daddy thor",
         "week_start_date": "2024-03-18",
-        "raids_start": 7308,
-        "raids_end": 7327,
-        "raids_increase": 19,
-        "bosses_start": 24462,
+        "raids_start": 7331,
+        "raids_end": 7331,
+        "raids_increase": 23,
+        "bosses_start": 24475,
         "bosses_end": 24475,
         "bosses_increase": 13
     },
@@ -22,8 +22,8 @@
         "raids_start": 16,
         "raids_end": 16,
         "raids_increase": 0,
-        "bosses_start": 17822,
-        "bosses_end": 18207,
-        "bosses_increase": 385
+        "bosses_start": 18281,
+        "bosses_end": 18281,
+        "bosses_increase": 459
     }
 }
