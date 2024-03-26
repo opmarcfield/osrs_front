@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "interwebfrog",
-        "week_start": "2024-03-18",
-        "start_experience": 203989112,
-        "end_experience": 203989112,
-        "experience_gain": 3313984
+        "player_name": "Pure Tristan",
+        "week_start": "2024-03-25",
+        "start_experience": 347939527,
+        "end_experience": 348574631,
+        "experience_gain": 635104
     },
     "top_raids_gain": {
-        "player_name": "daddy thor",
-        "week_start_date": "2024-03-18",
-        "raids_start": 7331,
-        "raids_end": 7331,
-        "raids_increase": 23,
-        "bosses_start": 24475,
-        "bosses_end": 24475,
-        "bosses_increase": 13
+        "player_name": "Gael L",
+        "week_start_date": "2024-03-25",
+        "raids_start": 320,
+        "raids_end": 326,
+        "raids_increase": 6,
+        "bosses_start": 4938,
+        "bosses_end": 4938,
+        "bosses_increase": 0
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
-        "week_start_date": "2024-03-18",
+        "week_start_date": "2024-03-25",
         "raids_start": 16,
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 18281,
-        "bosses_end": 18281,
-        "bosses_increase": 459
+        "bosses_end": 18382,
+        "bosses_increase": 101
     }
 }
