@@ -3,8 +3,8 @@
         "player_name": "Pure Tristan",
         "week_start": "2024-03-25",
         "start_experience": 347939527,
-        "end_experience": 348574631,
-        "experience_gain": 635104
+        "end_experience": 348891003,
+        "experience_gain": 951476
     },
     "top_raids_gain": {
         "player_name": "Gael L",
@@ -17,13 +17,13 @@
         "bosses_increase": 0
     },
     "top_bosses_gain": {
-        "player_name": "Pure Tristan",
+        "player_name": "peajib",
         "week_start_date": "2024-03-25",
-        "raids_start": 16,
-        "raids_end": 16,
+        "raids_start": 0,
+        "raids_end": 0,
         "raids_increase": 0,
-        "bosses_start": 18281,
-        "bosses_end": 18382,
-        "bosses_increase": 101
+        "bosses_start": 2377,
+        "bosses_end": 2600,
+        "bosses_increase": 223
     }
 }
