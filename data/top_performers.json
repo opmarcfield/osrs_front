@@ -1,20 +1,20 @@
 {
     "top_xp_gain": {
-        "player_name": "Pure Tristan",
+        "player_name": "GetPurpz",
         "week_start": "2024-03-25",
-        "start_experience": 347939527,
-        "end_experience": 348891003,
-        "experience_gain": 951476
+        "start_experience": 294794322,
+        "end_experience": 296192445,
+        "experience_gain": 1398123
     },
     "top_raids_gain": {
-        "player_name": "Gael L",
+        "player_name": "GetPurpz",
         "week_start_date": "2024-03-25",
-        "raids_start": 320,
-        "raids_end": 326,
-        "raids_increase": 6,
-        "bosses_start": 4938,
-        "bosses_end": 4938,
-        "bosses_increase": 0
+        "raids_start": 1298,
+        "raids_end": 1307,
+        "raids_increase": 9,
+        "bosses_start": 18698,
+        "bosses_end": 18765,
+        "bosses_increase": 67
     },
     "top_bosses_gain": {
         "player_name": "peajib",
