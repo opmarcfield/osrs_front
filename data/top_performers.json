@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "GetPurpz",
-        "week_start": "2024-03-25",
-        "start_experience": 298003777,
-        "end_experience": 298003777,
-        "experience_gain": 3209455
+        "player_name": "ArtiMeyer",
+        "week_start": "2024-04-01",
+        "start_experience": 189092656,
+        "end_experience": 189588404,
+        "experience_gain": 495748
     },
     "top_raids_gain": {
-        "player_name": "daddy thor",
-        "week_start_date": "2024-03-25",
-        "raids_start": 7352,
-        "raids_end": 7352,
-        "raids_increase": 21,
-        "bosses_start": 24476,
-        "bosses_end": 24476,
-        "bosses_increase": 1
+        "player_name": "Dub Tbow",
+        "week_start_date": "2024-04-01",
+        "raids_start": 845,
+        "raids_end": 847,
+        "raids_increase": 2,
+        "bosses_start": 53489,
+        "bosses_end": 53516,
+        "bosses_increase": 27
     },
     "top_bosses_gain": {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2024-03-25",
-        "raids_start": 16,
-        "raids_end": 16,
+        "player_name": "peajib",
+        "week_start_date": "2024-04-01",
+        "raids_start": 0,
+        "raids_end": 0,
         "raids_increase": 0,
-        "bosses_start": 18691,
-        "bosses_end": 18691,
-        "bosses_increase": 410
+        "bosses_start": 2601,
+        "bosses_end": 2651,
+        "bosses_increase": 50
     }
 }
