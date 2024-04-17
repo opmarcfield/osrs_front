@@ -3,8 +3,8 @@
         "player_name": "ArtiMeyer",
         "week_start": "2024-04-15",
         "start_experience": 191421177,
-        "end_experience": 192236107,
-        "experience_gain": 814930
+        "end_experience": 192654101,
+        "experience_gain": 1232924
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
@@ -13,8 +13,8 @@
         "raids_end": 901,
         "raids_increase": 12,
         "bosses_start": 53926,
-        "bosses_end": 53926,
-        "bosses_increase": 0
+        "bosses_end": 54000,
+        "bosses_increase": 74
     },
     "top_bosses_gain": {
         "player_name": "daddyy thor",
@@ -23,7 +23,7 @@
         "raids_end": 647,
         "raids_increase": 1,
         "bosses_start": 2414,
-        "bosses_end": 2537,
-        "bosses_increase": 123
+        "bosses_end": 2578,
+        "bosses_increase": 164
     }
 }
