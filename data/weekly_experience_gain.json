@@ -3,15 +3,15 @@
         "player_name": "Hoarseness",
         "week_start": "2024-04-22",
         "start_experience": 324535600,
-        "end_experience": 324664546,
-        "experience_gain": 128946
+        "end_experience": 324792352,
+        "experience_gain": 256752
     },
     {
         "player_name": "peajib",
         "week_start": "2024-04-22",
         "start_experience": 104128958,
-        "end_experience": 104165625,
-        "experience_gain": 36667
+        "end_experience": 104555630,
+        "experience_gain": 426672
     },
     {
         "player_name": "Sunneh",
@@ -24,22 +24,22 @@
         "player_name": "daddy thor",
         "week_start": "2024-04-22",
         "start_experience": 791239045,
-        "end_experience": 791264365,
-        "experience_gain": 25320
+        "end_experience": 791273965,
+        "experience_gain": 34920
     },
     {
         "player_name": "Pure Tristan",
         "week_start": "2024-04-22",
         "start_experience": 361263896,
-        "end_experience": 362169277,
-        "experience_gain": 905381
+        "end_experience": 362322983,
+        "experience_gain": 1059087
     },
     {
         "player_name": "Dub Tbow",
         "week_start": "2024-04-22",
         "start_experience": 631007046,
-        "end_experience": 631366731,
-        "experience_gain": 359685
+        "end_experience": 631704681,
+        "experience_gain": 697635
     },
     {
         "player_name": "X Skimo",
@@ -52,8 +52,8 @@
         "player_name": "ArtiMeyer",
         "week_start": "2024-04-22",
         "start_experience": 194910291,
-        "end_experience": 194944105,
-        "experience_gain": 33814
+        "end_experience": 195084857,
+        "experience_gain": 174566
     },
     {
         "player_name": "rocketdoggy",
@@ -66,8 +66,8 @@
         "player_name": "daddyy thor",
         "week_start": "2024-04-22",
         "start_experience": 127858488,
-        "end_experience": 127916784,
-        "experience_gain": 58296
+        "end_experience": 128000723,
+        "experience_gain": 142235
     },
     {
         "player_name": "SquatJogsBro",
@@ -80,29 +80,29 @@
         "player_name": "nodle boy",
         "week_start": "2024-04-22",
         "start_experience": 133183907,
-        "end_experience": 133346164,
-        "experience_gain": 162257
+        "end_experience": 133432425,
+        "experience_gain": 248518
     },
     {
         "player_name": "Dre1",
         "week_start": "2024-04-22",
         "start_experience": 475614211,
-        "end_experience": 477242952,
-        "experience_gain": 1628741
+        "end_experience": 478016496,
+        "experience_gain": 2402285
     },
     {
         "player_name": "GetPurpz",
         "week_start": "2024-04-22",
         "start_experience": 303886259,
-        "end_experience": 304357254,
-        "experience_gain": 470995
+        "end_experience": 304707728,
+        "experience_gain": 821469
     },
     {
         "player_name": "Main Scaper",
         "week_start": "2024-04-22",
         "start_experience": 392435762,
-        "end_experience": 392633945,
-        "experience_gain": 198183
+        "end_experience": 392824885,
+        "experience_gain": 389123
     },
     {
         "player_name": "Malxavier",
@@ -112,24 +112,24 @@
         "experience_gain": 0
     },
     {
-        "player_name": "W0nderbrad",
-        "week_start": "2024-04-22",
-        "start_experience": 134261014,
-        "end_experience": 134261014,
-        "experience_gain": 0
-    },
-    {
         "player_name": "Gael L",
         "week_start": "2024-04-22",
         "start_experience": 259713905,
-        "end_experience": 259713905,
-        "experience_gain": 0
+        "end_experience": 259841750,
+        "experience_gain": 127845
     },
     {
         "player_name": "LurpakShakur",
         "week_start": "2024-04-22",
         "start_experience": 144337222,
         "end_experience": 144337222,
+        "experience_gain": 0
+    },
+    {
+        "player_name": "W0nderbrad",
+        "week_start": "2024-04-22",
+        "start_experience": 134261014,
+        "end_experience": 134261014,
         "experience_gain": 0
     },
     {
