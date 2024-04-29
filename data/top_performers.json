@@ -2,28 +2,28 @@
     "top_xp_gain": {
         "player_name": "Dre1",
         "week_start": "2024-04-22",
-        "start_experience": 475614211,
-        "end_experience": 480218971,
-        "experience_gain": 4604760
+        "start_experience": 480871055,
+        "end_experience": 480871055,
+        "experience_gain": 5256844
     },
     "top_raids_gain": {
         "player_name": "Main Scaper",
         "week_start_date": "2024-04-22",
-        "raids_start": 532,
-        "raids_end": 549,
-        "raids_increase": 17,
-        "bosses_start": 10198,
-        "bosses_end": 10348,
-        "bosses_increase": 150
+        "raids_start": 552,
+        "raids_end": 552,
+        "raids_increase": 20,
+        "bosses_start": 10367,
+        "bosses_end": 10367,
+        "bosses_increase": 169
     },
     "top_bosses_gain": {
         "player_name": "Dre1",
         "week_start_date": "2024-04-22",
-        "raids_start": 744,
-        "raids_end": 748,
-        "raids_increase": 4,
-        "bosses_start": 29083,
-        "bosses_end": 29607,
-        "bosses_increase": 524
+        "raids_start": 750,
+        "raids_end": 750,
+        "raids_increase": 6,
+        "bosses_start": 29671,
+        "bosses_end": 29671,
+        "bosses_increase": 588
     }
 }
