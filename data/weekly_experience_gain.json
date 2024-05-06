@@ -1,73 +1,73 @@
 [
     {
-        "player_name": "Dub Tbow",
+        "player_name": "ArtiMeyer",
         "week_start": "2024-04-29",
-        "start_experience": 633720137,
-        "end_experience": 636444000,
-        "experience_gain": 2723863
+        "start_experience": 198255712,
+        "end_experience": 198255712,
+        "experience_gain": 1578709
     },
     {
-        "player_name": "Hoarseness",
+        "player_name": "BrutaIX",
         "week_start": "2024-04-29",
-        "start_experience": 324987940,
-        "end_experience": 325772069,
-        "experience_gain": 784129
-    },
-    {
-        "player_name": "Pure Tristan",
-        "week_start": "2024-04-29",
-        "start_experience": 364031414,
-        "end_experience": 365321323,
-        "experience_gain": 1289909
-    },
-    {
-        "player_name": "Gael L",
-        "week_start": "2024-04-29",
-        "start_experience": 263125450,
-        "end_experience": 263992901,
-        "experience_gain": 867451
-    },
-    {
-        "player_name": "W0nderbrad",
-        "week_start": "2024-04-29",
-        "start_experience": 134261014,
-        "end_experience": 134714848,
-        "experience_gain": 453834
-    },
-    {
-        "player_name": "daddyy thor",
-        "week_start": "2024-04-29",
-        "start_experience": 129280533,
-        "end_experience": 130789101,
-        "experience_gain": 1508568
+        "start_experience": 51731332,
+        "end_experience": 51731332,
+        "experience_gain": 582855
     },
     {
         "player_name": "daddy thor",
         "week_start": "2024-04-29",
-        "start_experience": 791473165,
+        "start_experience": 791536765,
         "end_experience": 791536765,
         "experience_gain": 63600
     },
     {
-        "player_name": "peajib",
+        "player_name": "daddyy thor",
         "week_start": "2024-04-29",
-        "start_experience": 104922293,
-        "end_experience": 104934301,
-        "experience_gain": 12008
+        "start_experience": 131218456,
+        "end_experience": 131218456,
+        "experience_gain": 1937923
     },
     {
-        "player_name": "Malxavier",
+        "player_name": "Dre1",
         "week_start": "2024-04-29",
-        "start_experience": 71044238,
-        "end_experience": 71158226,
-        "experience_gain": 113988
+        "start_experience": 484112164,
+        "end_experience": 484112164,
+        "experience_gain": 3241109
     },
     {
-        "player_name": "nodle boy",
+        "player_name": "Dub Tbow",
         "week_start": "2024-04-29",
-        "start_experience": 133600070,
-        "end_experience": 133863735,
-        "experience_gain": 263665
+        "start_experience": 637398543,
+        "end_experience": 637398543,
+        "experience_gain": 3678406
+    },
+    {
+        "player_name": "Gael L",
+        "week_start": "2024-04-29",
+        "start_experience": 264147313,
+        "end_experience": 264147313,
+        "experience_gain": 1021863
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start": "2024-04-29",
+        "start_experience": 310734057,
+        "end_experience": 310734057,
+        "experience_gain": 3336543
+    },
+    {
+        "player_name": "Hoarseness",
+        "week_start": "2024-04-29",
+        "start_experience": 325942852,
+        "end_experience": 325942852,
+        "experience_gain": 954912
+    },
+    {
+        "player_name": "interwebfrog",
+        "week_start": "2024-04-29",
+        "start_experience": 204610678,
+        "end_experience": 204610678,
+        "experience_gain": 621539
     },
     {
         "player_name": "LurpakShakur",
@@ -77,25 +77,53 @@
         "experience_gain": 0
     },
     {
-        "player_name": "rocketdoggy",
+        "player_name": "Main Scaper",
         "week_start": "2024-04-29",
-        "start_experience": 187558534,
-        "end_experience": 188068018,
-        "experience_gain": 509484
+        "start_experience": 395439209,
+        "end_experience": 395439209,
+        "experience_gain": 1362827
+    },
+    {
+        "player_name": "Malxavier",
+        "week_start": "2024-04-29",
+        "start_experience": 71544484,
+        "end_experience": 71544484,
+        "experience_gain": 500246
+    },
+    {
+        "player_name": "nodle boy",
+        "week_start": "2024-04-29",
+        "start_experience": 133863735,
+        "end_experience": 133863735,
+        "experience_gain": 263665
+    },
+    {
+        "player_name": "peajib",
+        "week_start": "2024-04-29",
+        "start_experience": 104950387,
+        "end_experience": 104950387,
+        "experience_gain": 28094
+    },
+    {
+        "player_name": "Pure Tristan",
+        "week_start": "2024-04-29",
+        "start_experience": 366013669,
+        "end_experience": 366013669,
+        "experience_gain": 1982255
     },
     {
         "player_name": "R1R2L1R2",
         "week_start": "2024-04-29",
-        "start_experience": 142482961,
-        "end_experience": 142831793,
-        "experience_gain": 348832
+        "start_experience": 142943737,
+        "end_experience": 142943737,
+        "experience_gain": 460776
     },
     {
-        "player_name": "X Skimo",
+        "player_name": "rocketdoggy",
         "week_start": "2024-04-29",
-        "start_experience": 210220859,
-        "end_experience": 210220859,
-        "experience_gain": 0
+        "start_experience": 188411720,
+        "end_experience": 188411720,
+        "experience_gain": 853186
     },
     {
         "player_name": "Se rena",
@@ -103,34 +131,6 @@
         "start_experience": 455768674,
         "end_experience": 455768674,
         "experience_gain": 0
-    },
-    {
-        "player_name": "ArtiMeyer",
-        "week_start": "2024-04-29",
-        "start_experience": 196677003,
-        "end_experience": 197407686,
-        "experience_gain": 730683
-    },
-    {
-        "player_name": "ThePatman",
-        "week_start": "2024-04-29",
-        "start_experience": 108737041,
-        "end_experience": 110046230,
-        "experience_gain": 1309189
-    },
-    {
-        "player_name": "interwebfrog",
-        "week_start": "2024-04-29",
-        "start_experience": 203989139,
-        "end_experience": 204552489,
-        "experience_gain": 563350
-    },
-    {
-        "player_name": "GetPurpz",
-        "week_start": "2024-04-29",
-        "start_experience": 307397514,
-        "end_experience": 309810957,
-        "experience_gain": 2413443
     },
     {
         "player_name": "solo_glow",
@@ -142,9 +142,9 @@
     {
         "player_name": "SquatJogsBro",
         "week_start": "2024-04-29",
-        "start_experience": 330405491,
-        "end_experience": 331032235,
-        "experience_gain": 626744
+        "start_experience": 331068709,
+        "end_experience": 331068709,
+        "experience_gain": 663218
     },
     {
         "player_name": "Sunneh",
@@ -154,24 +154,24 @@
         "experience_gain": 0
     },
     {
-        "player_name": "BrutaIX",
+        "player_name": "ThePatman",
         "week_start": "2024-04-29",
-        "start_experience": 51148477,
-        "end_experience": 51446528,
-        "experience_gain": 298051
+        "start_experience": 110744050,
+        "end_experience": 110744050,
+        "experience_gain": 2007009
     },
     {
-        "player_name": "Main Scaper",
+        "player_name": "W0nderbrad",
         "week_start": "2024-04-29",
-        "start_experience": 394076382,
-        "end_experience": 395149773,
-        "experience_gain": 1073391
+        "start_experience": 135019451,
+        "end_experience": 135019451,
+        "experience_gain": 758437
     },
     {
-        "player_name": "Dre1",
+        "player_name": "X Skimo",
         "week_start": "2024-04-29",
-        "start_experience": 480871055,
-        "end_experience": 483168803,
-        "experience_gain": 2297748
+        "start_experience": 210220859,
+        "end_experience": 210220859,
+        "experience_gain": 0
     }
 ]
