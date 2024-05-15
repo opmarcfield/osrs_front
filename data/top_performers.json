@@ -3,8 +3,8 @@
         "player_name": "Logannen",
         "week_start": "2024-05-13",
         "start_experience": 74752499,
-        "end_experience": 76398152,
-        "experience_gain": 1645653
+        "end_experience": 77310645,
+        "experience_gain": 2558146
     },
     "top_raids_gain": {
         "player_name": "Dre1",
@@ -13,8 +13,8 @@
         "raids_end": 773,
         "raids_increase": 4,
         "bosses_start": 29952,
-        "bosses_end": 29975,
-        "bosses_increase": 23
+        "bosses_end": 29982,
+        "bosses_increase": 30
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
@@ -23,7 +23,7 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 19049,
-        "bosses_end": 19228,
-        "bosses_increase": 179
+        "bosses_end": 19309,
+        "bosses_increase": 260
     }
 }
