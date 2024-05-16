@@ -1,20 +1,20 @@
 {
     "top_xp_gain": {
-        "player_name": "Logannen",
+        "player_name": "rocketdoggy",
         "week_start": "2024-05-13",
-        "start_experience": 74752499,
-        "end_experience": 77310645,
-        "experience_gain": 2558146
+        "start_experience": 190902016,
+        "end_experience": 195222422,
+        "experience_gain": 4320406
     },
     "top_raids_gain": {
         "player_name": "Dre1",
         "week_start_date": "2024-05-13",
         "raids_start": 769,
-        "raids_end": 773,
-        "raids_increase": 4,
+        "raids_end": 777,
+        "raids_increase": 8,
         "bosses_start": 29952,
-        "bosses_end": 29982,
-        "bosses_increase": 30
+        "bosses_end": 29992,
+        "bosses_increase": 40
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
@@ -23,7 +23,7 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 19049,
-        "bosses_end": 19309,
-        "bosses_increase": 260
+        "bosses_end": 19503,
+        "bosses_increase": 454
     }
 }
