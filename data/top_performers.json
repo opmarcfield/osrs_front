@@ -2,17 +2,17 @@
     "top_xp_gain": {
         "player_name": "rocketdoggy",
         "week_start": "2024-05-13",
-        "start_experience": 190902016,
+        "start_experience": 197504471,
         "end_experience": 197504471,
         "experience_gain": 6602455
     },
     "top_raids_gain": {
         "player_name": "Dre1",
         "week_start_date": "2024-05-13",
-        "raids_start": 769,
-        "raids_end": 783,
-        "raids_increase": 14,
-        "bosses_start": 29952,
+        "raids_start": 784,
+        "raids_end": 784,
+        "raids_increase": 15,
+        "bosses_start": 30058,
         "bosses_end": 30058,
         "bosses_increase": 106
     },
@@ -22,8 +22,8 @@
         "raids_start": 16,
         "raids_end": 16,
         "raids_increase": 0,
-        "bosses_start": 19049,
-        "bosses_end": 19537,
-        "bosses_increase": 488
+        "bosses_start": 19579,
+        "bosses_end": 19579,
+        "bosses_increase": 530
     }
 }
