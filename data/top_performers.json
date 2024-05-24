@@ -3,18 +3,18 @@
         "player_name": "BrutaIX",
         "week_start": "2024-05-20",
         "start_experience": 63628309,
-        "end_experience": 65578710,
-        "experience_gain": 1950401
+        "end_experience": 66080493,
+        "experience_gain": 2452184
     },
     "top_raids_gain": {
         "player_name": "GetPurpz",
         "week_start_date": "2024-05-20",
         "raids_start": 1355,
-        "raids_end": 1362,
-        "raids_increase": 7,
+        "raids_end": 1366,
+        "raids_increase": 11,
         "bosses_start": 20637,
-        "bosses_end": 20744,
-        "bosses_increase": 107
+        "bosses_end": 20777,
+        "bosses_increase": 140
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
@@ -23,7 +23,7 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 19579,
-        "bosses_end": 19809,
-        "bosses_increase": 230
+        "bosses_end": 19864,
+        "bosses_increase": 285
     }
 }
