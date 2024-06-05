@@ -30,6 +30,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Gael L",
+        "week_start_date": "2024-06-03",
+        "raids_start": 417,
+        "raids_end": 417,
+        "raids_increase": 0,
+        "bosses_start": 5104,
+        "bosses_end": 5133,
+        "bosses_increase": 29
+    },
+    {
         "player_name": "rocketdoggy",
         "week_start_date": "2024-06-03",
         "raids_start": 247,
@@ -90,16 +100,6 @@
         "bosses_increase": 2
     },
     {
-        "player_name": "Gael L",
-        "week_start_date": "2024-06-03",
-        "raids_start": 417,
-        "raids_end": 417,
-        "raids_increase": 0,
-        "bosses_start": 5104,
-        "bosses_end": 5129,
-        "bosses_increase": 25
-    },
-    {
         "player_name": "R1R2L1R2",
         "week_start_date": "2024-06-03",
         "raids_start": 50,
@@ -110,14 +110,14 @@
         "bosses_increase": 36
     },
     {
-        "player_name": "BrutaIX",
+        "player_name": "GetPurpz",
         "week_start_date": "2024-06-03",
-        "raids_start": 20,
-        "raids_end": 22,
-        "raids_increase": 2,
-        "bosses_start": 3157,
-        "bosses_end": 3173,
-        "bosses_increase": 16
+        "raids_start": 1386,
+        "raids_end": 1390,
+        "raids_increase": 4,
+        "bosses_start": 21023,
+        "bosses_end": 21088,
+        "bosses_increase": 65
     },
     {
         "player_name": "nodle boy",
@@ -127,16 +127,6 @@
         "raids_increase": 0,
         "bosses_start": 6479,
         "bosses_end": 6479,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "Main Scaper",
-        "week_start_date": "2024-06-03",
-        "raids_start": 560,
-        "raids_end": 560,
-        "raids_increase": 0,
-        "bosses_start": 10906,
-        "bosses_end": 10906,
         "bosses_increase": 0
     },
     {
@@ -150,24 +140,14 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "GetPurpz",
+        "player_name": "Main Scaper",
         "week_start_date": "2024-06-03",
-        "raids_start": 1386,
-        "raids_end": 1390,
-        "raids_increase": 4,
-        "bosses_start": 21023,
-        "bosses_end": 21052,
-        "bosses_increase": 29
-    },
-    {
-        "player_name": "Dre1",
-        "week_start_date": "2024-06-03",
-        "raids_start": 795,
-        "raids_end": 798,
-        "raids_increase": 3,
-        "bosses_start": 30191,
-        "bosses_end": 30208,
-        "bosses_increase": 17
+        "raids_start": 560,
+        "raids_end": 560,
+        "raids_increase": 0,
+        "bosses_start": 10906,
+        "bosses_end": 10921,
+        "bosses_increase": 15
     },
     {
         "player_name": "Dub Tbow",
@@ -176,8 +156,28 @@
         "raids_end": 970,
         "raids_increase": 3,
         "bosses_start": 55549,
-        "bosses_end": 55620,
-        "bosses_increase": 71
+        "bosses_end": 55795,
+        "bosses_increase": 246
+    },
+    {
+        "player_name": "BrutaIX",
+        "week_start_date": "2024-06-03",
+        "raids_start": 20,
+        "raids_end": 22,
+        "raids_increase": 2,
+        "bosses_start": 3157,
+        "bosses_end": 3176,
+        "bosses_increase": 19
+    },
+    {
+        "player_name": "Dre1",
+        "week_start_date": "2024-06-03",
+        "raids_start": 795,
+        "raids_end": 799,
+        "raids_increase": 4,
+        "bosses_start": 30191,
+        "bosses_end": 30239,
+        "bosses_increase": 48
     },
     {
         "player_name": "LurpakShakur",
@@ -216,8 +216,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 19975,
-        "bosses_end": 20011,
-        "bosses_increase": 36
+        "bosses_end": 20034,
+        "bosses_increase": 59
     },
     {
         "player_name": "interwebfrog",
@@ -236,8 +236,8 @@
         "raids_end": 6,
         "raids_increase": 0,
         "bosses_start": 8706,
-        "bosses_end": 8706,
-        "bosses_increase": 0
+        "bosses_end": 8711,
+        "bosses_increase": 5
     },
     {
         "player_name": "Kasmacku",
