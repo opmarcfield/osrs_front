@@ -90,6 +90,16 @@
         "bosses_increase": 33
     },
     {
+        "player_name": "Dub Tbow",
+        "week_start_date": "2024-06-03",
+        "raids_start": 967,
+        "raids_end": 981,
+        "raids_increase": 14,
+        "bosses_start": 55549,
+        "bosses_end": 56033,
+        "bosses_increase": 484
+    },
+    {
         "player_name": "ThePatman",
         "week_start_date": "2024-06-03",
         "raids_start": 107,
@@ -150,14 +160,14 @@
         "bosses_increase": 63
     },
     {
-        "player_name": "Dub Tbow",
+        "player_name": "GetPurpz",
         "week_start_date": "2024-06-03",
-        "raids_start": 967,
-        "raids_end": 974,
-        "raids_increase": 7,
-        "bosses_start": 55549,
-        "bosses_end": 56017,
-        "bosses_increase": 468
+        "raids_start": 1386,
+        "raids_end": 1392,
+        "raids_increase": 6,
+        "bosses_start": 21023,
+        "bosses_end": 21229,
+        "bosses_increase": 206
     },
     {
         "player_name": "Dre1",
@@ -166,17 +176,7 @@
         "raids_end": 801,
         "raids_increase": 6,
         "bosses_start": 30191,
-        "bosses_end": 30348,
-        "bosses_increase": 157
-    },
-    {
-        "player_name": "GetPurpz",
-        "week_start_date": "2024-06-03",
-        "raids_start": 1386,
-        "raids_end": 1391,
-        "raids_increase": 5,
-        "bosses_start": 21023,
-        "bosses_end": 21201,
+        "bosses_end": 30369,
         "bosses_increase": 178
     },
     {
@@ -206,8 +206,8 @@
         "raids_end": 91,
         "raids_increase": 0,
         "bosses_start": 11730,
-        "bosses_end": 11730,
-        "bosses_increase": 0
+        "bosses_end": 11738,
+        "bosses_increase": 8
     },
     {
         "player_name": "Pure Tristan",
@@ -216,8 +216,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 19975,
-        "bosses_end": 20487,
-        "bosses_increase": 512
+        "bosses_end": 20542,
+        "bosses_increase": 567
     },
     {
         "player_name": "interwebfrog",
