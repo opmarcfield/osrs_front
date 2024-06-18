@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
         "player_name": "X Skimo",
-        "week_start": "2024-06-10",
+        "week_start": "2024-06-17",
         "start_experience": 215300936,
-        "end_experience": 215300936,
-        "experience_gain": 3696123
+        "end_experience": 215917618,
+        "experience_gain": 616682
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
-        "week_start_date": "2024-06-10",
+        "week_start_date": "2024-06-17",
         "raids_start": 995,
-        "raids_end": 995,
-        "raids_increase": 14,
+        "raids_end": 998,
+        "raids_increase": 3,
         "bosses_start": 56063,
         "bosses_end": 56063,
-        "bosses_increase": 12
+        "bosses_increase": 0
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
-        "week_start_date": "2024-06-10",
+        "week_start_date": "2024-06-17",
         "raids_start": 16,
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 22468,
-        "bosses_end": 22468,
-        "bosses_increase": 1885
+        "bosses_end": 22502,
+        "bosses_increase": 34
     }
 }
