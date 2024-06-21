@@ -3,8 +3,8 @@
         "player_name": "X Skimo",
         "week_start": "2024-06-17",
         "start_experience": 215300936,
-        "end_experience": 217127708,
-        "experience_gain": 1826772
+        "end_experience": 217630039,
+        "experience_gain": 2329103
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
@@ -17,13 +17,13 @@
         "bosses_increase": 1
     },
     "top_bosses_gain": {
-        "player_name": "X Skimo",
+        "player_name": "GetPurpz",
         "week_start_date": "2024-06-17",
-        "raids_start": -6,
-        "raids_end": -6,
-        "raids_increase": 0,
-        "bosses_start": 835,
-        "bosses_end": 947,
-        "bosses_increase": 112
+        "raids_start": 1407,
+        "raids_end": 1413,
+        "raids_increase": 6,
+        "bosses_start": 21476,
+        "bosses_end": 21627,
+        "bosses_increase": 151
     }
 }
