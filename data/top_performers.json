@@ -3,15 +3,15 @@
         "player_name": "Dub Tbow",
         "week_start": "2024-06-24",
         "start_experience": 662536938,
-        "end_experience": 666507359,
-        "experience_gain": 3970421
+        "end_experience": 666990666,
+        "experience_gain": 4453728
     },
     "top_raids_gain": {
         "player_name": "Dre1",
         "week_start_date": "2024-06-24",
         "raids_start": 812,
-        "raids_end": 827,
-        "raids_increase": 15,
+        "raids_end": 830,
+        "raids_increase": 18,
         "bosses_start": 30675,
         "bosses_end": 30718,
         "bosses_increase": 43
@@ -23,7 +23,7 @@
         "raids_end": 1012,
         "raids_increase": 5,
         "bosses_start": 56064,
-        "bosses_end": 56861,
-        "bosses_increase": 797
+        "bosses_end": 56908,
+        "bosses_increase": 844
     }
 }
