@@ -1,10 +1,10 @@
 {
     "top_xp_gain": {
-        "player_name": "X Skimo",
+        "player_name": "Dub Tbow",
         "week_start": "2024-07-01",
-        "start_experience": 222767211,
-        "end_experience": 224376186,
-        "experience_gain": 1608975
+        "start_experience": 667723845,
+        "end_experience": 669696984,
+        "experience_gain": 1973139
     },
     "top_raids_gain": {
         "player_name": "Dre1",
@@ -13,8 +13,8 @@
         "raids_end": 836,
         "raids_increase": 6,
         "bosses_start": 30733,
-        "bosses_end": 30769,
-        "bosses_increase": 36
+        "bosses_end": 30779,
+        "bosses_increase": 46
     },
     "top_bosses_gain": {
         "player_name": "Dub Tbow",
@@ -23,7 +23,7 @@
         "raids_end": 1021,
         "raids_increase": 2,
         "bosses_start": 56918,
-        "bosses_end": 57407,
-        "bosses_increase": 489
+        "bosses_end": 57490,
+        "bosses_increase": 572
     }
 }
