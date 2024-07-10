@@ -17,8 +17,8 @@
         "player_name": "Dub Tbow",
         "week_start": "2024-07-08",
         "start_experience": 672650724,
-        "end_experience": 672823344,
-        "experience_gain": 172620
+        "end_experience": 674035127,
+        "experience_gain": 1384403
     },
     {
         "player_name": "Se rena",
@@ -38,15 +38,22 @@
         "player_name": "R1R2L1R2",
         "week_start": "2024-07-08",
         "start_experience": 145880560,
-        "end_experience": 145911060,
-        "experience_gain": 30500
+        "end_experience": 145921537,
+        "experience_gain": 40977
+    },
+    {
+        "player_name": "nodle boy",
+        "week_start": "2024-07-08",
+        "start_experience": 137054871,
+        "end_experience": 137127734,
+        "experience_gain": 72863
     },
     {
         "player_name": "Hoarseness",
         "week_start": "2024-07-08",
         "start_experience": 326815232,
-        "end_experience": 326927489,
-        "experience_gain": 112257
+        "end_experience": 327421673,
+        "experience_gain": 606441
     },
     {
         "player_name": "Logannen",
@@ -59,8 +66,8 @@
         "player_name": "X Skimo",
         "week_start": "2024-07-08",
         "start_experience": 225997208,
-        "end_experience": 226327424,
-        "experience_gain": 330216
+        "end_experience": 226398761,
+        "experience_gain": 401553
     },
     {
         "player_name": "interwebfrog",
@@ -80,22 +87,15 @@
         "player_name": "Pure Tristan",
         "week_start": "2024-07-08",
         "start_experience": 388132219,
-        "end_experience": 388364419,
-        "experience_gain": 232200
-    },
-    {
-        "player_name": "nodle boy",
-        "week_start": "2024-07-08",
-        "start_experience": 137054871,
-        "end_experience": 137096142,
-        "experience_gain": 41271
+        "end_experience": 388865883,
+        "experience_gain": 733664
     },
     {
         "player_name": "BrutaIX",
         "week_start": "2024-07-08",
         "start_experience": 78380282,
-        "end_experience": 79335453,
-        "experience_gain": 955171
+        "end_experience": 79381533,
+        "experience_gain": 1001251
     },
     {
         "player_name": "daddyy thor",
@@ -108,15 +108,15 @@
         "player_name": "Dre1",
         "week_start": "2024-07-08",
         "start_experience": 497529193,
-        "end_experience": 497704045,
-        "experience_gain": 174852
+        "end_experience": 497830761,
+        "experience_gain": 301568
     },
     {
         "player_name": "Main Scaper",
         "week_start": "2024-07-08",
         "start_experience": 399557623,
-        "end_experience": 399601034,
-        "experience_gain": 43411
+        "end_experience": 399842983,
+        "experience_gain": 285360
     },
     {
         "player_name": "Sunneh",
@@ -129,8 +129,8 @@
         "player_name": "GetPurpz",
         "week_start": "2024-07-08",
         "start_experience": 334073184,
-        "end_experience": 334156642,
-        "experience_gain": 83458
+        "end_experience": 334272290,
+        "experience_gain": 199106
     },
     {
         "player_name": "LurpakShakur",
@@ -143,8 +143,8 @@
         "player_name": "ArtiMeyer",
         "week_start": "2024-07-08",
         "start_experience": 209367893,
-        "end_experience": 210021243,
-        "experience_gain": 653350
+        "end_experience": 210063502,
+        "experience_gain": 695609
     },
     {
         "player_name": "peajib",
@@ -164,14 +164,14 @@
         "player_name": "ThePatman",
         "week_start": "2024-07-08",
         "start_experience": 136327452,
-        "end_experience": 136471489,
-        "experience_gain": 144037
+        "end_experience": 137843749,
+        "experience_gain": 1516297
     },
     {
         "player_name": "SquatJogsBro",
         "week_start": "2024-07-08",
         "start_experience": 339180032,
-        "end_experience": 339273229,
-        "experience_gain": 93197
+        "end_experience": 339523690,
+        "experience_gain": 343658
     }
 ]
