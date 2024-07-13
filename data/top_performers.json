@@ -3,8 +3,8 @@
         "player_name": "ThePatman",
         "week_start": "2024-07-08",
         "start_experience": 136327452,
-        "end_experience": 139719833,
-        "experience_gain": 3392381
+        "end_experience": 141409461,
+        "experience_gain": 5082009
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
@@ -13,17 +13,17 @@
         "raids_end": 1038,
         "raids_increase": 9,
         "bosses_start": 57982,
-        "bosses_end": 58319,
-        "bosses_increase": 337
+        "bosses_end": 58428,
+        "bosses_increase": 446
     },
     "top_bosses_gain": {
-        "player_name": "Pure Tristan",
+        "player_name": "Dub Tbow",
         "week_start_date": "2024-07-08",
-        "raids_start": 16,
-        "raids_end": 16,
-        "raids_increase": 0,
-        "bosses_start": 23165,
-        "bosses_end": 23597,
-        "bosses_increase": 432
+        "raids_start": 1029,
+        "raids_end": 1038,
+        "raids_increase": 9,
+        "bosses_start": 57982,
+        "bosses_end": 58428,
+        "bosses_increase": 446
     }
 }
