@@ -26,18 +26,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 23700,
-        "bosses_end": 23701,
-        "bosses_increase": 1
-    },
-    {
-        "player_name": "ThePatman",
-        "week_start_date": "2024-07-15",
-        "raids_start": 137,
-        "raids_end": 137,
-        "raids_increase": 0,
-        "bosses_start": 4352,
-        "bosses_end": 4383,
-        "bosses_increase": 31
+        "bosses_end": 23702,
+        "bosses_increase": 2
     },
     {
         "player_name": "R1R2L1R2",
@@ -46,8 +36,8 @@
         "raids_end": 50,
         "raids_increase": 0,
         "bosses_start": 8774,
-        "bosses_end": 8774,
-        "bosses_increase": 0
+        "bosses_end": 8793,
+        "bosses_increase": 19
     },
     {
         "player_name": "daddyy thor",
@@ -67,16 +57,6 @@
         "raids_increase": 0,
         "bosses_start": 4906,
         "bosses_end": 4906,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "W0nderbrad",
-        "week_start_date": "2024-07-15",
-        "raids_start": 13,
-        "raids_end": 13,
-        "raids_increase": 0,
-        "bosses_start": 8781,
-        "bosses_end": 8781,
         "bosses_increase": 0
     },
     {
@@ -130,13 +110,23 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Dre1",
+        "player_name": "ThePatman",
         "week_start_date": "2024-07-15",
-        "raids_start": 849,
-        "raids_end": 849,
+        "raids_start": 137,
+        "raids_end": 137,
         "raids_increase": 0,
-        "bosses_start": 30809,
-        "bosses_end": 30812,
+        "bosses_start": 4352,
+        "bosses_end": 4415,
+        "bosses_increase": 63
+    },
+    {
+        "player_name": "W0nderbrad",
+        "week_start_date": "2024-07-15",
+        "raids_start": 13,
+        "raids_end": 13,
+        "raids_increase": 0,
+        "bosses_start": 8781,
+        "bosses_end": 8784,
         "bosses_increase": 3
     },
     {
@@ -146,8 +136,8 @@
         "raids_end": 576,
         "raids_increase": 0,
         "bosses_start": 11182,
-        "bosses_end": 11188,
-        "bosses_increase": 6
+        "bosses_end": 11189,
+        "bosses_increase": 7
     },
     {
         "player_name": "nodle boy",
@@ -180,6 +170,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Dre1",
+        "week_start_date": "2024-07-15",
+        "raids_start": 849,
+        "raids_end": 849,
+        "raids_increase": 0,
+        "bosses_start": 30809,
+        "bosses_end": 30812,
+        "bosses_increase": 3
+    },
+    {
         "player_name": "ArtiMeyer",
         "week_start_date": "2024-07-15",
         "raids_start": 95,
@@ -193,11 +193,11 @@
         "player_name": "GetPurpz",
         "week_start_date": "2024-07-15",
         "raids_start": 1451,
-        "raids_end": 1451,
-        "raids_increase": 0,
+        "raids_end": 1453,
+        "raids_increase": 2,
         "bosses_start": 22316,
-        "bosses_end": 22344,
-        "bosses_increase": 28
+        "bosses_end": 22349,
+        "bosses_increase": 33
     },
     {
         "player_name": "X Skimo",
@@ -207,16 +207,6 @@
         "raids_increase": 0,
         "bosses_start": 1399,
         "bosses_end": 1399,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "interwebfrog",
-        "week_start_date": "2024-07-15",
-        "raids_start": -6,
-        "raids_end": -6,
-        "raids_increase": 0,
-        "bosses_start": 1787,
-        "bosses_end": 1787,
         "bosses_increase": 0
     },
     {
@@ -246,7 +236,17 @@
         "raids_end": 1039,
         "raids_increase": 1,
         "bosses_start": 58513,
-        "bosses_end": 58974,
-        "bosses_increase": 461
+        "bosses_end": 59151,
+        "bosses_increase": 638
+    },
+    {
+        "player_name": "interwebfrog",
+        "week_start_date": "2024-07-15",
+        "raids_start": -6,
+        "raids_end": -6,
+        "raids_increase": 0,
+        "bosses_start": 1787,
+        "bosses_end": 1787,
+        "bosses_increase": 0
     }
 ]
