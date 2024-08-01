@@ -20,16 +20,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "ArtiMeyer",
-        "week_start_date": "2024-07-29",
-        "raids_start": 95,
-        "raids_end": 95,
-        "raids_increase": 0,
-        "bosses_start": 5770,
-        "bosses_end": 5866,
-        "bosses_increase": 96
-    },
-    {
         "player_name": "peajib",
         "week_start_date": "2024-07-29",
         "raids_start": 0,
@@ -90,6 +80,16 @@
         "bosses_increase": 105
     },
     {
+        "player_name": "ArtiMeyer",
+        "week_start_date": "2024-07-29",
+        "raids_start": 95,
+        "raids_end": 95,
+        "raids_increase": 0,
+        "bosses_start": 5770,
+        "bosses_end": 5932,
+        "bosses_increase": 162
+    },
+    {
         "player_name": "interwebfrog",
         "week_start_date": "2024-07-29",
         "raids_start": -6,
@@ -140,16 +140,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Se rena",
-        "week_start_date": "2024-07-29",
-        "raids_start": 178,
-        "raids_end": 179,
-        "raids_increase": 1,
-        "bosses_start": 12222,
-        "bosses_end": 12222,
-        "bosses_increase": 0
-    },
-    {
         "player_name": "BrutaIX",
         "week_start_date": "2024-07-29",
         "raids_start": 24,
@@ -173,11 +163,11 @@
         "player_name": "Dub Tbow",
         "week_start_date": "2024-07-29",
         "raids_start": 1057,
-        "raids_end": 1068,
-        "raids_increase": 11,
+        "raids_end": 1070,
+        "raids_increase": 13,
         "bosses_start": 60827,
-        "bosses_end": 60868,
-        "bosses_increase": 41
+        "bosses_end": 60871,
+        "bosses_increase": 44
     },
     {
         "player_name": "Logannen",
@@ -190,14 +180,14 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "ThePatman",
+        "player_name": "Se rena",
         "week_start_date": "2024-07-29",
-        "raids_start": 139,
-        "raids_end": 139,
-        "raids_increase": 0,
-        "bosses_start": 4520,
-        "bosses_end": 4520,
-        "bosses_increase": 0
+        "raids_start": 178,
+        "raids_end": 180,
+        "raids_increase": 2,
+        "bosses_start": 12222,
+        "bosses_end": 12232,
+        "bosses_increase": 10
     },
     {
         "player_name": "LurpakShakur",
@@ -207,6 +197,16 @@
         "raids_increase": 0,
         "bosses_start": 944,
         "bosses_end": 944,
+        "bosses_increase": 0
+    },
+    {
+        "player_name": "ThePatman",
+        "week_start_date": "2024-07-29",
+        "raids_start": 139,
+        "raids_end": 141,
+        "raids_increase": 2,
+        "bosses_start": 4520,
+        "bosses_end": 4520,
         "bosses_increase": 0
     },
     {
@@ -243,11 +243,11 @@
         "player_name": "GetPurpz",
         "week_start_date": "2024-07-29",
         "raids_start": 1469,
-        "raids_end": 1471,
-        "raids_increase": 2,
+        "raids_end": 1474,
+        "raids_increase": 5,
         "bosses_start": 22516,
-        "bosses_end": 22519,
-        "bosses_increase": 3
+        "bosses_end": 22543,
+        "bosses_increase": 27
     },
     {
         "player_name": "Hoarseness",
