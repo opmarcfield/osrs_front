@@ -76,8 +76,18 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 24136,
-        "bosses_end": 24252,
-        "bosses_increase": 116
+        "bosses_end": 24300,
+        "bosses_increase": 164
+    },
+    {
+        "player_name": "daddyy thor",
+        "week_start_date": "2024-07-29",
+        "raids_start": 686,
+        "raids_end": 686,
+        "raids_increase": 0,
+        "bosses_start": 3877,
+        "bosses_end": 3892,
+        "bosses_increase": 15
     },
     {
         "player_name": "Main Scaper",
@@ -86,8 +96,8 @@
         "raids_end": 576,
         "raids_increase": 0,
         "bosses_start": 11200,
-        "bosses_end": 11201,
-        "bosses_increase": 1
+        "bosses_end": 11202,
+        "bosses_increase": 2
     },
     {
         "player_name": "interwebfrog",
@@ -100,14 +110,14 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "daddyy thor",
+        "player_name": "ArtiMeyer",
         "week_start_date": "2024-07-29",
-        "raids_start": 686,
-        "raids_end": 686,
+        "raids_start": 95,
+        "raids_end": 95,
         "raids_increase": 0,
-        "bosses_start": 3877,
-        "bosses_end": 3877,
-        "bosses_increase": 0
+        "bosses_start": 5770,
+        "bosses_end": 5960,
+        "bosses_increase": 190
     },
     {
         "player_name": "nodle boy",
@@ -130,16 +140,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "ArtiMeyer",
-        "week_start_date": "2024-07-29",
-        "raids_start": 95,
-        "raids_end": 95,
-        "raids_increase": 0,
-        "bosses_start": 5770,
-        "bosses_end": 5947,
-        "bosses_increase": 177
-    },
-    {
         "player_name": "BrutaIX",
         "week_start_date": "2024-07-29",
         "raids_start": 24,
@@ -156,8 +156,8 @@
         "raids_end": 429,
         "raids_increase": 0,
         "bosses_start": 5221,
-        "bosses_end": 5221,
-        "bosses_increase": 0
+        "bosses_end": 5223,
+        "bosses_increase": 2
     },
     {
         "player_name": "Dub Tbow",
@@ -236,8 +236,8 @@
         "raids_end": 56,
         "raids_increase": 0,
         "bosses_start": 9517,
-        "bosses_end": 9623,
-        "bosses_increase": 106
+        "bosses_end": 9795,
+        "bosses_increase": 278
     },
     {
         "player_name": "GetPurpz",
