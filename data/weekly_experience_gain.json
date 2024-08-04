@@ -10,8 +10,8 @@
         "player_name": "W0nderbrad",
         "week_start": "2024-07-29",
         "start_experience": 138204709,
-        "end_experience": 138280413,
-        "experience_gain": 75704
+        "end_experience": 138318360,
+        "experience_gain": 113651
     },
     {
         "player_name": "interwebfrog",
@@ -24,8 +24,8 @@
         "player_name": "Dub Tbow",
         "week_start": "2024-07-29",
         "start_experience": 688088785,
-        "end_experience": 690341263,
-        "experience_gain": 2252478
+        "end_experience": 690726081,
+        "experience_gain": 2637296
     },
     {
         "player_name": "SquatJogsBro",
@@ -38,22 +38,22 @@
         "player_name": "Se rena",
         "week_start": "2024-07-29",
         "start_experience": 457454420,
-        "end_experience": 457816732,
-        "experience_gain": 362312
+        "end_experience": 458105290,
+        "experience_gain": 650870
     },
     {
         "player_name": "Main Scaper",
         "week_start": "2024-07-29",
         "start_experience": 402967500,
-        "end_experience": 403900136,
-        "experience_gain": 932636
+        "end_experience": 404277251,
+        "experience_gain": 1309751
     },
     {
         "player_name": "X Skimo",
         "week_start": "2024-07-29",
         "start_experience": 231230613,
-        "end_experience": 232196716,
-        "experience_gain": 966103
+        "end_experience": 232432716,
+        "experience_gain": 1202103
     },
     {
         "player_name": "peajib",
@@ -61,6 +61,13 @@
         "start_experience": 104950387,
         "end_experience": 104950387,
         "experience_gain": 0
+    },
+    {
+        "player_name": "Pure Tristan",
+        "week_start": "2024-07-29",
+        "start_experience": 398966456,
+        "end_experience": 399893940,
+        "experience_gain": 927484
     },
     {
         "player_name": "solo_glow",
@@ -84,13 +91,6 @@
         "experience_gain": 88890
     },
     {
-        "player_name": "Pure Tristan",
-        "week_start": "2024-07-29",
-        "start_experience": 398966456,
-        "end_experience": 399841809,
-        "experience_gain": 875353
-    },
-    {
         "player_name": "Dre1",
         "week_start": "2024-07-29",
         "start_experience": 500735108,
@@ -108,15 +108,15 @@
         "player_name": "Kasmacku",
         "week_start": "2024-07-29",
         "start_experience": 101041994,
-        "end_experience": 102162714,
-        "experience_gain": 1120720
+        "end_experience": 102362827,
+        "experience_gain": 1320833
     },
     {
         "player_name": "Hoarseness",
         "week_start": "2024-07-29",
         "start_experience": 329261000,
-        "end_experience": 329649819,
-        "experience_gain": 388819
+        "end_experience": 329767863,
+        "experience_gain": 506863
     },
     {
         "player_name": "Gael L",
@@ -129,15 +129,15 @@
         "player_name": "ThePatman",
         "week_start": "2024-07-29",
         "start_experience": 148454457,
-        "end_experience": 151455175,
-        "experience_gain": 3000718
+        "end_experience": 151468943,
+        "experience_gain": 3014486
     },
     {
         "player_name": "GetPurpz",
         "week_start": "2024-07-29",
         "start_experience": 337469203,
-        "end_experience": 338136186,
-        "experience_gain": 666983
+        "end_experience": 338162504,
+        "experience_gain": 693301
     },
     {
         "player_name": "LurpakShakur",
@@ -150,15 +150,15 @@
         "player_name": "ArtiMeyer",
         "week_start": "2024-07-29",
         "start_experience": 211735201,
-        "end_experience": 214374555,
-        "experience_gain": 2639354
+        "end_experience": 214968299,
+        "experience_gain": 3233098
     },
     {
         "player_name": "daddyy thor",
         "week_start": "2024-07-29",
         "start_experience": 140374118,
-        "end_experience": 141287561,
-        "experience_gain": 913443
+        "end_experience": 141387410,
+        "experience_gain": 1013292
     },
     {
         "player_name": "R1R2L1R2",
