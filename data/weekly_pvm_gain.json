@@ -40,21 +40,11 @@
         "bosses_increase": 16
     },
     {
-        "player_name": "GetPurpz",
-        "week_start_date": "2024-08-05",
-        "raids_start": 1474,
-        "raids_end": 1477,
-        "raids_increase": 3,
-        "bosses_start": 22561,
-        "bosses_end": 22643,
-        "bosses_increase": 82
-    },
-    {
         "player_name": "nodle boy",
         "week_start_date": "2024-08-05",
         "raids_start": 279,
-        "raids_end": 280,
-        "raids_increase": 1,
+        "raids_end": 281,
+        "raids_increase": 2,
         "bosses_start": 6487,
         "bosses_end": 6542,
         "bosses_increase": 55
@@ -98,16 +88,6 @@
         "bosses_start": 1787,
         "bosses_end": 1787,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "ArtiMeyer",
-        "week_start_date": "2024-08-05",
-        "raids_start": 95,
-        "raids_end": 95,
-        "raids_increase": 0,
-        "bosses_start": 5996,
-        "bosses_end": 5998,
-        "bosses_increase": 2
     },
     {
         "player_name": "W0nderbrad",
@@ -160,14 +140,24 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "GetPurpz",
+        "week_start_date": "2024-08-05",
+        "raids_start": 1474,
+        "raids_end": 1478,
+        "raids_increase": 4,
+        "bosses_start": 22561,
+        "bosses_end": 22673,
+        "bosses_increase": 112
+    },
+    {
         "player_name": "Main Scaper",
         "week_start_date": "2024-08-05",
         "raids_start": 576,
-        "raids_end": 577,
-        "raids_increase": 1,
+        "raids_end": 578,
+        "raids_increase": 2,
         "bosses_start": 11203,
-        "bosses_end": 11205,
-        "bosses_increase": 2
+        "bosses_end": 11207,
+        "bosses_increase": 4
     },
     {
         "player_name": "Dre1",
@@ -190,24 +180,34 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "daddyy thor",
+        "player_name": "ArtiMeyer",
         "week_start_date": "2024-08-05",
-        "raids_start": 686,
-        "raids_end": 692,
-        "raids_increase": 6,
-        "bosses_start": 3903,
-        "bosses_end": 3966,
-        "bosses_increase": 63
+        "raids_start": 95,
+        "raids_end": 95,
+        "raids_increase": 0,
+        "bosses_start": 5996,
+        "bosses_end": 6029,
+        "bosses_increase": 33
     },
     {
         "player_name": "Dub Tbow",
         "week_start_date": "2024-08-05",
         "raids_start": 1070,
-        "raids_end": 1079,
-        "raids_increase": 9,
+        "raids_end": 1081,
+        "raids_increase": 11,
         "bosses_start": 60871,
-        "bosses_end": 61049,
-        "bosses_increase": 178
+        "bosses_end": 61072,
+        "bosses_increase": 201
+    },
+    {
+        "player_name": "daddyy thor",
+        "week_start_date": "2024-08-05",
+        "raids_start": 686,
+        "raids_end": 694,
+        "raids_increase": 8,
+        "bosses_start": 3903,
+        "bosses_end": 3971,
+        "bosses_increase": 68
     },
     {
         "player_name": "rocketdoggy",
