@@ -20,16 +20,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "nodle boy",
-        "week_start_date": "2024-08-12",
-        "raids_start": 282,
-        "raids_end": 282,
-        "raids_increase": 0,
-        "bosses_start": 6542,
-        "bosses_end": 6754,
-        "bosses_increase": 212
-    },
-    {
         "player_name": "W0nderbrad",
         "week_start_date": "2024-08-12",
         "raids_start": 13,
@@ -73,18 +63,18 @@
         "player_name": "GetPurpz",
         "week_start_date": "2024-08-12",
         "raids_start": 1479,
-        "raids_end": 1485,
-        "raids_increase": 6,
+        "raids_end": 1488,
+        "raids_increase": 9,
         "bosses_start": 22703,
-        "bosses_end": 22765,
-        "bosses_increase": 62
+        "bosses_end": 22781,
+        "bosses_increase": 78
     },
     {
         "player_name": "Se rena",
         "week_start_date": "2024-08-12",
         "raids_start": 192,
-        "raids_end": 192,
-        "raids_increase": 0,
+        "raids_end": 193,
+        "raids_increase": 1,
         "bosses_start": 12233,
         "bosses_end": 12233,
         "bosses_increase": 0
@@ -130,16 +120,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "daddyy thor",
-        "week_start_date": "2024-08-12",
-        "raids_start": 698,
-        "raids_end": 703,
-        "raids_increase": 5,
-        "bosses_start": 3993,
-        "bosses_end": 4001,
-        "bosses_increase": 8
-    },
-    {
         "player_name": "BrutaIX",
         "week_start_date": "2024-08-12",
         "raids_start": 24,
@@ -170,6 +150,36 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "nodle boy",
+        "week_start_date": "2024-08-12",
+        "raids_start": 282,
+        "raids_end": 282,
+        "raids_increase": 0,
+        "bosses_start": 6542,
+        "bosses_end": 6769,
+        "bosses_increase": 227
+    },
+    {
+        "player_name": "daddyy thor",
+        "week_start_date": "2024-08-12",
+        "raids_start": 698,
+        "raids_end": 705,
+        "raids_increase": 7,
+        "bosses_start": 3993,
+        "bosses_end": 4019,
+        "bosses_increase": 26
+    },
+    {
+        "player_name": "ThePatman",
+        "week_start_date": "2024-08-12",
+        "raids_start": 146,
+        "raids_end": 151,
+        "raids_increase": 5,
+        "bosses_start": 4540,
+        "bosses_end": 4648,
+        "bosses_increase": 108
+    },
+    {
         "player_name": "X Skimo",
         "week_start_date": "2024-08-12",
         "raids_start": -6,
@@ -190,34 +200,24 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Dub Tbow",
+        "week_start_date": "2024-08-12",
+        "raids_start": 1096,
+        "raids_end": 1138,
+        "raids_increase": 42,
+        "bosses_start": 61072,
+        "bosses_end": 61257,
+        "bosses_increase": 185
+    },
+    {
         "player_name": "ArtiMeyer",
         "week_start_date": "2024-08-12",
         "raids_start": 95,
         "raids_end": 95,
         "raids_increase": 0,
         "bosses_start": 6087,
-        "bosses_end": 6213,
-        "bosses_increase": 126
-    },
-    {
-        "player_name": "Dub Tbow",
-        "week_start_date": "2024-08-12",
-        "raids_start": 1096,
-        "raids_end": 1127,
-        "raids_increase": 31,
-        "bosses_start": 61072,
-        "bosses_end": 61256,
-        "bosses_increase": 184
-    },
-    {
-        "player_name": "ThePatman",
-        "week_start_date": "2024-08-12",
-        "raids_start": 146,
-        "raids_end": 148,
-        "raids_increase": 2,
-        "bosses_start": 4540,
-        "bosses_end": 4648,
-        "bosses_increase": 108
+        "bosses_end": 6228,
+        "bosses_increase": 141
     },
     {
         "player_name": "Pure Tristan",
@@ -226,8 +226,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 24316,
-        "bosses_end": 24316,
-        "bosses_increase": 0
+        "bosses_end": 24374,
+        "bosses_increase": 58
     },
     {
         "player_name": "Main Scaper",
