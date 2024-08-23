@@ -10,16 +10,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Dub Tbow",
-        "week_start_date": "2024-08-19",
-        "raids_start": 1156,
-        "raids_end": 1175,
-        "raids_increase": 19,
-        "bosses_start": 61276,
-        "bosses_end": 61425,
-        "bosses_increase": 149
-    },
-    {
         "player_name": "Pure Tristan",
         "week_start_date": "2024-08-19",
         "raids_start": 16,
@@ -180,16 +170,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "nodle boy",
-        "week_start_date": "2024-08-19",
-        "raids_start": 282,
-        "raids_end": 282,
-        "raids_increase": 0,
-        "bosses_start": 6793,
-        "bosses_end": 6877,
-        "bosses_increase": 84
-    },
-    {
         "player_name": "daddy thor",
         "week_start_date": "2024-08-19",
         "raids_start": 7378,
@@ -197,6 +177,36 @@
         "raids_increase": 0,
         "bosses_start": 24483,
         "bosses_end": 24483,
+        "bosses_increase": 0
+    },
+    {
+        "player_name": "Dub Tbow",
+        "week_start_date": "2024-08-19",
+        "raids_start": 1156,
+        "raids_end": 1185,
+        "raids_increase": 29,
+        "bosses_start": 61276,
+        "bosses_end": 61469,
+        "bosses_increase": 193
+    },
+    {
+        "player_name": "nodle boy",
+        "week_start_date": "2024-08-19",
+        "raids_start": 282,
+        "raids_end": 282,
+        "raids_increase": 0,
+        "bosses_start": 6793,
+        "bosses_end": 6888,
+        "bosses_increase": 95
+    },
+    {
+        "player_name": "interwebfrog",
+        "week_start_date": "2024-08-19",
+        "raids_start": -6,
+        "raids_end": -6,
+        "raids_increase": 0,
+        "bosses_start": 1787,
+        "bosses_end": 1787,
         "bosses_increase": 0
     },
     {
@@ -208,16 +218,6 @@
         "bosses_start": 31270,
         "bosses_end": 31382,
         "bosses_increase": 112
-    },
-    {
-        "player_name": "interwebfrog",
-        "week_start_date": "2024-08-19",
-        "raids_start": -6,
-        "raids_end": -6,
-        "raids_increase": 0,
-        "bosses_start": 1787,
-        "bosses_end": 1787,
-        "bosses_increase": 0
     },
     {
         "player_name": "Main Scaper",
@@ -233,8 +233,8 @@
         "player_name": "Se rena",
         "week_start_date": "2024-08-19",
         "raids_start": 197,
-        "raids_end": 197,
-        "raids_increase": 0,
+        "raids_end": 198,
+        "raids_increase": 1,
         "bosses_start": 12233,
         "bosses_end": 12233,
         "bosses_increase": 0
