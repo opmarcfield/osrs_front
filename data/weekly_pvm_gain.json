@@ -5,29 +5,9 @@
         "raids_start": -6,
         "raids_end": -6,
         "raids_increase": 0,
-        "bosses_start": 943,
+        "bosses_start": 941,
         "bosses_end": 943,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "8llu",
-        "week_start_date": "2024-09-23",
-        "raids_start": -6,
-        "raids_end": -6,
-        "raids_increase": 0,
-        "bosses_start": 1184,
-        "bosses_end": 1184,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "X Skimo",
-        "week_start_date": "2024-09-23",
-        "raids_start": -6,
-        "raids_end": -6,
-        "raids_increase": 0,
-        "bosses_start": 1398,
-        "bosses_end": 1398,
-        "bosses_increase": 0
+        "bosses_increase": 2
     },
     {
         "player_name": "solo_glow",
@@ -40,24 +20,14 @@
         "bosses_increase": 564
     },
     {
-        "player_name": "GetPurpz",
+        "player_name": "nodle boy",
         "week_start_date": "2024-09-23",
-        "raids_start": 1539,
-        "raids_end": 5318,
-        "raids_increase": 3779,
-        "bosses_start": 20622,
-        "bosses_end": 25107,
-        "bosses_increase": 4485
-    },
-    {
-        "player_name": "BrutaIX",
-        "week_start_date": "2024-09-23",
-        "raids_start": 27,
-        "raids_end": 60,
-        "raids_increase": 33,
-        "bosses_start": 4390,
-        "bosses_end": 4474,
-        "bosses_increase": 84
+        "raids_start": 282,
+        "raids_end": 439,
+        "raids_increase": 157,
+        "bosses_start": 5931,
+        "bosses_end": 6944,
+        "bosses_increase": 1013
     },
     {
         "player_name": "Logannen",
@@ -66,8 +36,18 @@
         "raids_end": 34,
         "raids_increase": 31,
         "bosses_start": 1717,
-        "bosses_end": 1780,
-        "bosses_increase": 63
+        "bosses_end": 1798,
+        "bosses_increase": 81
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start_date": "2024-09-23",
+        "raids_start": 1539,
+        "raids_end": 5318,
+        "raids_increase": 3779,
+        "bosses_start": 20622,
+        "bosses_end": 25265,
+        "bosses_increase": 4643
     },
     {
         "player_name": "rocketdoggy",
@@ -90,14 +70,14 @@
         "bosses_increase": 220
     },
     {
-        "player_name": "nodle boy",
+        "player_name": "BrutaIX",
         "week_start_date": "2024-09-23",
-        "raids_start": 282,
-        "raids_end": 439,
-        "raids_increase": 157,
-        "bosses_start": 5931,
-        "bosses_end": 6944,
-        "bosses_increase": 1013
+        "raids_start": 27,
+        "raids_end": 62,
+        "raids_increase": 35,
+        "bosses_start": 4390,
+        "bosses_end": 4518,
+        "bosses_increase": 128
     },
     {
         "player_name": "SquatJogsBro",
@@ -110,16 +90,6 @@
         "bosses_increase": 2330
     },
     {
-        "player_name": "W0nderbrad",
-        "week_start_date": "2024-09-23",
-        "raids_start": 16,
-        "raids_end": 366,
-        "raids_increase": 350,
-        "bosses_start": 9099,
-        "bosses_end": 9449,
-        "bosses_increase": 350
-    },
-    {
         "player_name": "interwebfrog",
         "week_start_date": "2024-09-23",
         "raids_start": -6,
@@ -130,14 +100,44 @@
         "bosses_increase": 43
     },
     {
+        "player_name": "W0nderbrad",
+        "week_start_date": "2024-09-23",
+        "raids_start": 16,
+        "raids_end": 366,
+        "raids_increase": 350,
+        "bosses_start": 9099,
+        "bosses_end": 9471,
+        "bosses_increase": 372
+    },
+    {
+        "player_name": "8llu",
+        "week_start_date": "2024-09-23",
+        "raids_start": -6,
+        "raids_end": -6,
+        "raids_increase": 0,
+        "bosses_start": 1184,
+        "bosses_end": 1198,
+        "bosses_increase": 14
+    },
+    {
         "player_name": "Pure Tristan",
         "week_start_date": "2024-09-23",
         "raids_start": 16,
         "raids_end": 2291,
         "raids_increase": 2275,
         "bosses_start": 22633,
-        "bosses_end": 25996,
-        "bosses_increase": 3363
+        "bosses_end": 26146,
+        "bosses_increase": 3513
+    },
+    {
+        "player_name": "X Skimo",
+        "week_start_date": "2024-09-23",
+        "raids_start": -6,
+        "raids_end": -6,
+        "raids_increase": 0,
+        "bosses_start": 1396,
+        "bosses_end": 1398,
+        "bosses_increase": 2
     },
     {
         "player_name": "Kasmacku",
@@ -145,19 +145,9 @@
         "raids_start": -6,
         "raids_end": -6,
         "raids_increase": 0,
-        "bosses_start": 974,
+        "bosses_start": 972,
         "bosses_end": 974,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "Dre1",
-        "week_start_date": "2024-09-23",
-        "raids_start": 874,
-        "raids_end": 4887,
-        "raids_increase": 4013,
-        "bosses_start": 25039,
-        "bosses_end": 32129,
-        "bosses_increase": 7090
+        "bosses_increase": 2
     },
     {
         "player_name": "Dub Tbow",
@@ -166,8 +156,18 @@
         "raids_end": 7312,
         "raids_increase": 6015,
         "bosses_start": 57968,
-        "bosses_end": 65218,
-        "bosses_increase": 7250
+        "bosses_end": 65257,
+        "bosses_increase": 7289
+    },
+    {
+        "player_name": "Dre1",
+        "week_start_date": "2024-09-23",
+        "raids_start": 874,
+        "raids_end": 4887,
+        "raids_increase": 4013,
+        "bosses_start": 25039,
+        "bosses_end": 32168,
+        "bosses_increase": 7129
     },
     {
         "player_name": "ArtiMeyer",
@@ -180,16 +180,6 @@
         "bosses_increase": 621
     },
     {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2024-09-23",
-        "raids_start": 148,
-        "raids_end": 1157,
-        "raids_increase": 1009,
-        "bosses_start": 9989,
-        "bosses_end": 11226,
-        "bosses_increase": 1237
-    },
-    {
         "player_name": "Se rena",
         "week_start_date": "2024-09-23",
         "raids_start": 198,
@@ -198,6 +188,16 @@
         "bosses_start": 9090,
         "bosses_end": 12232,
         "bosses_increase": 3142
+    },
+    {
+        "player_name": "Main Scaper",
+        "week_start_date": "2024-09-23",
+        "raids_start": 585,
+        "raids_end": 598,
+        "raids_increase": 13,
+        "bosses_start": 9968,
+        "bosses_end": 11683,
+        "bosses_increase": 1715
     },
     {
         "player_name": "Hoarseness",
@@ -210,14 +210,14 @@
         "bosses_increase": 2141
     },
     {
-        "player_name": "Main Scaper",
+        "player_name": "0nlySpoonz",
         "week_start_date": "2024-09-23",
-        "raids_start": 585,
-        "raids_end": 594,
-        "raids_increase": 9,
-        "bosses_start": 9968,
-        "bosses_end": 11632,
-        "bosses_increase": 1664
+        "raids_start": 148,
+        "raids_end": 1157,
+        "raids_increase": 1009,
+        "bosses_start": 9989,
+        "bosses_end": 11264,
+        "bosses_increase": 1275
     },
     {
         "player_name": "daddy thor",
@@ -236,8 +236,8 @@
         "raids_end": 292,
         "raids_increase": 123,
         "bosses_start": 5249,
-        "bosses_end": 5463,
-        "bosses_increase": 214
+        "bosses_end": 5492,
+        "bosses_increase": 243
     },
     {
         "player_name": "peajib",
