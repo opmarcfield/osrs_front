@@ -1,17 +1,17 @@
 {
     "top_xp_gain": {
-        "player_name": "Logannen",
+        "player_name": "BrutaIX",
         "week_start": "2024-09-30",
-        "start_experience": 96557855,
-        "end_experience": 98234226,
-        "experience_gain": 1676371
+        "start_experience": 91853076,
+        "end_experience": 94426905,
+        "experience_gain": 2573829
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
         "week_start_date": "2024-09-30",
         "raids_start": 1324,
-        "raids_end": 1331,
-        "raids_increase": 7,
+        "raids_end": 1340,
+        "raids_increase": 16,
         "bosses_start": 65259,
         "bosses_end": 65274,
         "bosses_increase": 15
