@@ -3,8 +3,8 @@
         "player_name": "peajib",
         "week_start": "2024-10-07",
         "start_experience": 109923497,
-        "end_experience": 111428895,
-        "experience_gain": 1505398
+        "end_experience": 112711627,
+        "experience_gain": 2788130
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
@@ -23,7 +23,7 @@
         "raids_end": 0,
         "raids_increase": 0,
         "bosses_start": 3366,
-        "bosses_end": 3709,
-        "bosses_increase": 343
+        "bosses_end": 3967,
+        "bosses_increase": 601
     }
 }
