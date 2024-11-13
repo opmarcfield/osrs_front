@@ -10,20 +10,20 @@
         "player_name": "Dub Tbow",
         "week_start_date": "2024-11-11",
         "raids_start": 1440,
-        "raids_end": 1448,
-        "raids_increase": 8,
+        "raids_end": 1449,
+        "raids_increase": 9,
         "bosses_start": 67033,
-        "bosses_end": 67067,
-        "bosses_increase": 34
+        "bosses_end": 67126,
+        "bosses_increase": 93
     },
     "top_bosses_gain": {
-        "player_name": "peajib",
+        "player_name": "Dub Tbow",
         "week_start_date": "2024-11-11",
-        "raids_start": 0,
-        "raids_end": 0,
-        "raids_increase": 0,
-        "bosses_start": 7338,
-        "bosses_end": 7409,
-        "bosses_increase": 71
+        "raids_start": 1440,
+        "raids_end": 1449,
+        "raids_increase": 9,
+        "bosses_start": 67033,
+        "bosses_end": 67126,
+        "bosses_increase": 93
     }
 }
