@@ -17,8 +17,8 @@
         "player_name": "X Skimo",
         "week_start": "2024-11-18",
         "start_experience": 257598867,
-        "end_experience": 258153295,
-        "experience_gain": 554428
+        "end_experience": 258239841,
+        "experience_gain": 640974
     },
     {
         "player_name": "interwebfrog",
@@ -31,15 +31,15 @@
         "player_name": "peajib",
         "week_start": "2024-11-18",
         "start_experience": 141205507,
-        "end_experience": 142476731,
-        "experience_gain": 1271224
+        "end_experience": 142805664,
+        "experience_gain": 1600157
     },
     {
         "player_name": "GetPurpz",
         "week_start": "2024-11-18",
         "start_experience": 385427523,
-        "end_experience": 386776076,
-        "experience_gain": 1348553
+        "end_experience": 386859068,
+        "experience_gain": 1431545
     },
     {
         "player_name": "nodle boy",
@@ -53,13 +53,6 @@
         "week_start": "2024-11-18",
         "start_experience": 459448328,
         "end_experience": 459448328,
-        "experience_gain": 0
-    },
-    {
-        "player_name": "LurpakShakur",
-        "week_start": "2024-11-18",
-        "start_experience": 152628738,
-        "end_experience": 152628738,
         "experience_gain": 0
     },
     {
@@ -80,15 +73,15 @@
         "player_name": "Main Scaper",
         "week_start": "2024-11-18",
         "start_experience": 425060917,
-        "end_experience": 425619856,
-        "experience_gain": 558939
+        "end_experience": 425643975,
+        "experience_gain": 583058
     },
     {
         "player_name": "ThePatman",
         "week_start": "2024-11-18",
         "start_experience": 179735703,
-        "end_experience": 180220331,
-        "experience_gain": 484628
+        "end_experience": 180488840,
+        "experience_gain": 753137
     },
     {
         "player_name": "8llu",
@@ -115,43 +108,50 @@
         "player_name": "Pure Tristan",
         "week_start": "2024-11-18",
         "start_experience": 430894621,
-        "end_experience": 431615924,
-        "experience_gain": 721303
+        "end_experience": 431766046,
+        "experience_gain": 871425
+    },
+    {
+        "player_name": "LurpakShakur",
+        "week_start": "2024-11-18",
+        "start_experience": 152628738,
+        "end_experience": 152628738,
+        "experience_gain": 0
     },
     {
         "player_name": "0nlySpoonz",
         "week_start": "2024-11-18",
         "start_experience": 179030365,
-        "end_experience": 180385319,
-        "experience_gain": 1354954
+        "end_experience": 180892645,
+        "experience_gain": 1862280
     },
     {
         "player_name": "daddy thor",
         "week_start": "2024-11-18",
         "start_experience": 798832259,
-        "end_experience": 799637611,
-        "experience_gain": 805352
+        "end_experience": 800528149,
+        "experience_gain": 1695890
     },
     {
         "player_name": "Dub Tbow",
         "week_start": "2024-11-18",
         "start_experience": 763183628,
-        "end_experience": 764791453,
-        "experience_gain": 1607825
+        "end_experience": 765117642,
+        "experience_gain": 1934014
     },
     {
         "player_name": "ArtiMeyer",
         "week_start": "2024-11-18",
         "start_experience": 254532022,
-        "end_experience": 256460479,
-        "experience_gain": 1928457
+        "end_experience": 257022844,
+        "experience_gain": 2490822
     },
     {
         "player_name": "Dre1",
         "week_start": "2024-11-18",
         "start_experience": 521515856,
-        "end_experience": 522750066,
-        "experience_gain": 1234210
+        "end_experience": 522768571,
+        "experience_gain": 1252715
     },
     {
         "player_name": "Hoarseness",
@@ -171,7 +171,7 @@
         "player_name": "solo_glow",
         "week_start": "2024-11-18",
         "start_experience": 153388137,
-        "end_experience": 153388255,
-        "experience_gain": 118
+        "end_experience": 153405467,
+        "experience_gain": 17330
     }
 ]
