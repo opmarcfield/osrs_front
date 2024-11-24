@@ -3,8 +3,8 @@
         "player_name": "ArtiMeyer",
         "week_start": "2024-11-18",
         "start_experience": 254532022,
-        "end_experience": 257022844,
-        "experience_gain": 2490822
+        "end_experience": 257474747,
+        "experience_gain": 2942725
     },
     "top_raids_gain": {
         "player_name": "0nlySpoonz",
@@ -13,17 +13,17 @@
         "raids_end": 231,
         "raids_increase": 20,
         "bosses_start": 11733,
-        "bosses_end": 11987,
-        "bosses_increase": 254
+        "bosses_end": 12092,
+        "bosses_increase": 359
     },
     "top_bosses_gain": {
-        "player_name": "GetPurpz",
+        "player_name": "0nlySpoonz",
         "week_start_date": "2024-11-18",
-        "raids_start": 1578,
-        "raids_end": 1578,
-        "raids_increase": 0,
-        "bosses_start": 27521,
-        "bosses_end": 27832,
-        "bosses_increase": 311
+        "raids_start": 211,
+        "raids_end": 231,
+        "raids_increase": 20,
+        "bosses_start": 11733,
+        "bosses_end": 12092,
+        "bosses_increase": 359
     }
 }
