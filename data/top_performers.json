@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "ArtiMeyer",
-        "week_start": "2024-11-18",
-        "start_experience": 258094373,
-        "end_experience": 258094373,
-        "experience_gain": 3562351
+        "player_name": "Dub Tbow",
+        "week_start": "2024-11-25",
+        "start_experience": 765851592,
+        "end_experience": 767265893,
+        "experience_gain": 1414301
     },
     "top_raids_gain": {
         "player_name": "0nlySpoonz",
-        "week_start_date": "2024-11-18",
+        "week_start_date": "2024-11-25",
         "raids_start": 235,
-        "raids_end": 235,
-        "raids_increase": 24,
+        "raids_end": 243,
+        "raids_increase": 8,
         "bosses_start": 12105,
-        "bosses_end": 12105,
-        "bosses_increase": 372
+        "bosses_end": 12113,
+        "bosses_increase": 8
     },
     "top_bosses_gain": {
         "player_name": "peajib",
-        "week_start_date": "2024-11-18",
+        "week_start_date": "2024-11-25",
         "raids_start": 0,
         "raids_end": 0,
         "raids_increase": 0,
         "bosses_start": 8199,
-        "bosses_end": 8199,
-        "bosses_increase": 398
+        "bosses_end": 8250,
+        "bosses_increase": 51
     }
 }
