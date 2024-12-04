@@ -136,8 +136,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 28996,
-        "bosses_end": 29018,
-        "bosses_increase": 22
+        "bosses_end": 29026,
+        "bosses_increase": 30
     },
     {
         "player_name": "Sunneh",
@@ -226,8 +226,8 @@
         "raids_end": 624,
         "raids_increase": 0,
         "bosses_start": 12063,
-        "bosses_end": 12063,
-        "bosses_increase": 0
+        "bosses_end": 12064,
+        "bosses_increase": 1
     },
     {
         "player_name": "Hoarseness",
