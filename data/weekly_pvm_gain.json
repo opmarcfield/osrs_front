@@ -60,26 +60,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2024-12-02",
-        "raids_start": 251,
-        "raids_end": 251,
-        "raids_increase": 0,
-        "bosses_start": 12231,
-        "bosses_end": 12231,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "GetPurpz",
-        "week_start_date": "2024-12-02",
-        "raids_start": 1582,
-        "raids_end": 1582,
-        "raids_increase": 0,
-        "bosses_start": 28075,
-        "bosses_end": 28116,
-        "bosses_increase": 41
-    },
-    {
         "player_name": "Kasmacku",
         "week_start_date": "2024-12-02",
         "raids_start": -6,
@@ -136,8 +116,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 28996,
-        "bosses_end": 29026,
-        "bosses_increase": 30
+        "bosses_end": 29057,
+        "bosses_increase": 61
     },
     {
         "player_name": "Sunneh",
@@ -158,6 +138,16 @@
         "bosses_start": 1214,
         "bosses_end": 1214,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2024-12-02",
+        "raids_start": 251,
+        "raids_end": 251,
+        "raids_increase": 0,
+        "bosses_start": 12231,
+        "bosses_end": 12247,
+        "bosses_increase": 16
     },
     {
         "player_name": "solo_glow",
@@ -210,6 +200,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "GetPurpz",
+        "week_start_date": "2024-12-02",
+        "raids_start": 1582,
+        "raids_end": 1582,
+        "raids_increase": 0,
+        "bosses_start": 28075,
+        "bosses_end": 28162,
+        "bosses_increase": 87
+    },
+    {
         "player_name": "W0nderbrad",
         "week_start_date": "2024-12-02",
         "raids_start": 16,
@@ -226,8 +226,8 @@
         "raids_end": 624,
         "raids_increase": 0,
         "bosses_start": 12063,
-        "bosses_end": 12064,
-        "bosses_increase": 1
+        "bosses_end": 12065,
+        "bosses_increase": 2
     },
     {
         "player_name": "Hoarseness",
