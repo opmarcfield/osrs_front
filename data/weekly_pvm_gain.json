@@ -110,26 +110,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2024-12-02",
-        "raids_start": 251,
-        "raids_end": 251,
-        "raids_increase": 0,
-        "bosses_start": 12231,
-        "bosses_end": 12247,
-        "bosses_increase": 16
-    },
-    {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2024-12-02",
-        "raids_start": 16,
-        "raids_end": 16,
-        "raids_increase": 0,
-        "bosses_start": 28996,
-        "bosses_end": 29110,
-        "bosses_increase": 114
-    },
-    {
         "player_name": "Sunneh",
         "week_start_date": "2024-12-02",
         "raids_start": -6,
@@ -190,6 +170,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2024-12-02",
+        "raids_start": 251,
+        "raids_end": 251,
+        "raids_increase": 0,
+        "bosses_start": 12231,
+        "bosses_end": 12395,
+        "bosses_increase": 164
+    },
+    {
         "player_name": "daddy thor",
         "week_start_date": "2024-12-02",
         "raids_start": 7451,
@@ -206,8 +196,8 @@
         "raids_end": 1582,
         "raids_increase": 0,
         "bosses_start": 28075,
-        "bosses_end": 28180,
-        "bosses_increase": 105
+        "bosses_end": 28187,
+        "bosses_increase": 112
     },
     {
         "player_name": "W0nderbrad",
@@ -218,6 +208,16 @@
         "bosses_start": 9641,
         "bosses_end": 9641,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "Pure Tristan",
+        "week_start_date": "2024-12-02",
+        "raids_start": 16,
+        "raids_end": 16,
+        "raids_increase": 0,
+        "bosses_start": 28996,
+        "bosses_end": 29140,
+        "bosses_increase": 144
     },
     {
         "player_name": "Main Scaper",
