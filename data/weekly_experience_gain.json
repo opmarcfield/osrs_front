@@ -3,8 +3,8 @@
         "player_name": "ArtiMeyer",
         "week_start": "2024-12-09",
         "start_experience": 260010978,
-        "end_experience": 260011079,
-        "experience_gain": 101
+        "end_experience": 260011295,
+        "experience_gain": 317
     },
     {
         "player_name": "W0nderbrad",
@@ -77,11 +77,18 @@
         "experience_gain": 0
     },
     {
+        "player_name": "X Skimo",
+        "week_start": "2024-12-09",
+        "start_experience": 259868874,
+        "end_experience": 259868874,
+        "experience_gain": 0
+    },
+    {
         "player_name": "Pure Tristan",
         "week_start": "2024-12-09",
         "start_experience": 438277042,
-        "end_experience": 438430343,
-        "experience_gain": 153301
+        "end_experience": 438673575,
+        "experience_gain": 396533
     },
     {
         "player_name": "ThePatman",
@@ -105,18 +112,11 @@
         "experience_gain": 0
     },
     {
-        "player_name": "X Skimo",
-        "week_start": "2024-12-09",
-        "start_experience": 259868874,
-        "end_experience": 259868874,
-        "experience_gain": 0
-    },
-    {
         "player_name": "0nlySpoonz",
         "week_start": "2024-12-09",
         "start_experience": 184343604,
-        "end_experience": 184343604,
-        "experience_gain": 0
+        "end_experience": 184657527,
+        "experience_gain": 313923
     },
     {
         "player_name": "interwebfrog",
@@ -129,22 +129,22 @@
         "player_name": "daddy thor",
         "week_start": "2024-12-09",
         "start_experience": 802424331,
-        "end_experience": 802794810,
-        "experience_gain": 370479
+        "end_experience": 803233150,
+        "experience_gain": 808819
     },
     {
         "player_name": "GetPurpz",
         "week_start": "2024-12-09",
         "start_experience": 389322723,
-        "end_experience": 389430302,
-        "experience_gain": 107579
+        "end_experience": 389446146,
+        "experience_gain": 123423
     },
     {
         "player_name": "Dub Tbow",
         "week_start": "2024-12-09",
         "start_experience": 768779093,
-        "end_experience": 769388208,
-        "experience_gain": 609115
+        "end_experience": 770118327,
+        "experience_gain": 1339234
     },
     {
         "player_name": "Logannen",
