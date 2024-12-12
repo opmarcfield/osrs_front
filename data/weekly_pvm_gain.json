@@ -153,11 +153,11 @@
         "player_name": "0nlySpoonz",
         "week_start_date": "2024-12-09",
         "raids_start": 251,
-        "raids_end": 262,
-        "raids_increase": 11,
+        "raids_end": 263,
+        "raids_increase": 12,
         "bosses_start": 12395,
-        "bosses_end": 12395,
-        "bosses_increase": 0
+        "bosses_end": 12403,
+        "bosses_increase": 8
     },
     {
         "player_name": "ArtiMeyer",
@@ -173,11 +173,11 @@
         "player_name": "daddy thor",
         "week_start_date": "2024-12-09",
         "raids_start": 7465,
-        "raids_end": 7475,
-        "raids_increase": 10,
+        "raids_end": 7477,
+        "raids_increase": 12,
         "bosses_start": 24494,
-        "bosses_end": 24494,
-        "bosses_increase": 0
+        "bosses_end": 24496,
+        "bosses_increase": 2
     },
     {
         "player_name": "Pure Tristan",
@@ -186,8 +186,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 29148,
-        "bosses_end": 29208,
-        "bosses_increase": 60
+        "bosses_end": 29231,
+        "bosses_increase": 83
     },
     {
         "player_name": "GetPurpz",
@@ -196,8 +196,8 @@
         "raids_end": 1582,
         "raids_increase": 0,
         "bosses_start": 28256,
-        "bosses_end": 28289,
-        "bosses_increase": 33
+        "bosses_end": 28292,
+        "bosses_increase": 36
     },
     {
         "player_name": "Hoarseness",
@@ -213,8 +213,8 @@
         "player_name": "Dub Tbow",
         "week_start_date": "2024-12-09",
         "raids_start": 1495,
-        "raids_end": 1502,
-        "raids_increase": 7,
+        "raids_end": 1508,
+        "raids_increase": 13,
         "bosses_start": 67367,
         "bosses_end": 67368,
         "bosses_increase": 1
