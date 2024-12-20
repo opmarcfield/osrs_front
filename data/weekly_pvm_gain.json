@@ -146,8 +146,8 @@
         "raids_end": 624,
         "raids_increase": 0,
         "bosses_start": 12080,
-        "bosses_end": 12220,
-        "bosses_increase": 140
+        "bosses_end": 12271,
+        "bosses_increase": 191
     },
     {
         "player_name": "Dre1",
@@ -160,24 +160,24 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2024-12-16",
-        "raids_start": 16,
-        "raids_end": 16,
-        "raids_increase": 0,
-        "bosses_start": 29340,
-        "bosses_end": 29446,
-        "bosses_increase": 106
-    },
-    {
         "player_name": "Dub Tbow",
         "week_start_date": "2024-12-16",
         "raids_start": 1519,
         "raids_end": 1530,
         "raids_increase": 11,
         "bosses_start": 67374,
-        "bosses_end": 67543,
-        "bosses_increase": 169
+        "bosses_end": 67562,
+        "bosses_increase": 188
+    },
+    {
+        "player_name": "Pure Tristan",
+        "week_start_date": "2024-12-16",
+        "raids_start": 16,
+        "raids_end": 16,
+        "raids_increase": 0,
+        "bosses_start": 29340,
+        "bosses_end": 29506,
+        "bosses_increase": 166
     },
     {
         "player_name": "GetPurpz",
@@ -186,8 +186,8 @@
         "raids_end": 1600,
         "raids_increase": 5,
         "bosses_start": 28337,
-        "bosses_end": 28383,
-        "bosses_increase": 46
+        "bosses_end": 28434,
+        "bosses_increase": 97
     },
     {
         "player_name": "W0nderbrad",
@@ -246,7 +246,7 @@
         "raids_end": 292,
         "raids_increase": 11,
         "bosses_start": 12528,
-        "bosses_end": 12561,
-        "bosses_increase": 33
+        "bosses_end": 12562,
+        "bosses_increase": 34
     }
 ]
