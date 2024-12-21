@@ -3,8 +3,8 @@
         "player_name": "Dub Tbow",
         "week_start": "2024-12-16",
         "start_experience": 772564744,
-        "end_experience": 775299585,
-        "experience_gain": 2734841
+        "end_experience": 775703571,
+        "experience_gain": 3138827
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
@@ -13,17 +13,17 @@
         "raids_end": 1530,
         "raids_increase": 11,
         "bosses_start": 67374,
-        "bosses_end": 67562,
-        "bosses_increase": 188
+        "bosses_end": 67650,
+        "bosses_increase": 276
     },
     "top_bosses_gain": {
-        "player_name": "Main Scaper",
+        "player_name": "Dub Tbow",
         "week_start_date": "2024-12-16",
-        "raids_start": 624,
-        "raids_end": 624,
-        "raids_increase": 0,
-        "bosses_start": 12080,
-        "bosses_end": 12271,
-        "bosses_increase": 191
+        "raids_start": 1519,
+        "raids_end": 1530,
+        "raids_increase": 11,
+        "bosses_start": 67374,
+        "bosses_end": 67650,
+        "bosses_increase": 276
     }
 }
