@@ -24,8 +24,8 @@
         "player_name": "0nlySpoonz",
         "week_start": "2024-12-23",
         "start_experience": 187984241,
-        "end_experience": 188405155,
-        "experience_gain": 420914
+        "end_experience": 188774760,
+        "experience_gain": 790519
     },
     {
         "player_name": "Sunneh",
@@ -38,8 +38,8 @@
         "player_name": "GetPurpz",
         "week_start": "2024-12-23",
         "start_experience": 392404068,
-        "end_experience": 394123822,
-        "experience_gain": 1719754
+        "end_experience": 394330442,
+        "experience_gain": 1926374
     },
     {
         "player_name": "Se rena",
@@ -52,8 +52,8 @@
         "player_name": "Pure Tristan",
         "week_start": "2024-12-23",
         "start_experience": 443211353,
-        "end_experience": 444271401,
-        "experience_gain": 1060048
+        "end_experience": 444593461,
+        "experience_gain": 1382108
     },
     {
         "player_name": "ArtiMeyer",
@@ -66,8 +66,8 @@
         "player_name": "Dub Tbow",
         "week_start": "2024-12-23",
         "start_experience": 777953292,
-        "end_experience": 781605789,
-        "experience_gain": 3652497
+        "end_experience": 782262988,
+        "experience_gain": 4309696
     },
     {
         "player_name": "Hoarseness",
@@ -88,20 +88,6 @@
         "week_start": "2024-12-23",
         "start_experience": 227920835,
         "end_experience": 227920835,
-        "experience_gain": 0
-    },
-    {
-        "player_name": "Main Scaper",
-        "week_start": "2024-12-23",
-        "start_experience": 431279090,
-        "end_experience": 432824220,
-        "experience_gain": 1545130
-    },
-    {
-        "player_name": "Kasmacku",
-        "week_start": "2024-12-23",
-        "start_experience": 103274641,
-        "end_experience": 103274641,
         "experience_gain": 0
     },
     {
@@ -126,10 +112,24 @@
         "experience_gain": 0
     },
     {
+        "player_name": "Main Scaper",
+        "week_start": "2024-12-23",
+        "start_experience": 431279090,
+        "end_experience": 432853224,
+        "experience_gain": 1574134
+    },
+    {
         "player_name": "LurpakShakur",
         "week_start": "2024-12-23",
         "start_experience": 152628738,
         "end_experience": 152628738,
+        "experience_gain": 0
+    },
+    {
+        "player_name": "Kasmacku",
+        "week_start": "2024-12-23",
+        "start_experience": 103274641,
+        "end_experience": 103274641,
         "experience_gain": 0
     },
     {
