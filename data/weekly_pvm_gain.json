@@ -46,8 +46,8 @@
         "raids_end": 110,
         "raids_increase": 0,
         "bosses_start": 7049,
-        "bosses_end": 7071,
-        "bosses_increase": 22
+        "bosses_end": 7101,
+        "bosses_increase": 52
     },
     {
         "player_name": "nodle boy",
@@ -88,16 +88,6 @@
         "bosses_start": 941,
         "bosses_end": 941,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "GetPurpz",
-        "week_start_date": "2025-01-06",
-        "raids_start": 1617,
-        "raids_end": 1617,
-        "raids_increase": 0,
-        "bosses_start": 28966,
-        "bosses_end": 28970,
-        "bosses_increase": 4
     },
     {
         "player_name": "rocketdoggy",
@@ -143,11 +133,11 @@
         "player_name": "Dub Tbow",
         "week_start_date": "2025-01-06",
         "raids_start": 1599,
-        "raids_end": 1602,
-        "raids_increase": 3,
+        "raids_end": 1603,
+        "raids_increase": 4,
         "bosses_start": 68647,
-        "bosses_end": 68728,
-        "bosses_increase": 81
+        "bosses_end": 68783,
+        "bosses_increase": 136
     },
     {
         "player_name": "daddy thor",
@@ -168,6 +158,16 @@
         "bosses_start": 12230,
         "bosses_end": 12230,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start_date": "2025-01-06",
+        "raids_start": 1617,
+        "raids_end": 1617,
+        "raids_increase": 0,
+        "bosses_start": 28966,
+        "bosses_end": 29003,
+        "bosses_increase": 37
     },
     {
         "player_name": "BrutaIX",
@@ -196,8 +196,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 30320,
-        "bosses_end": 30336,
-        "bosses_increase": 16
+        "bosses_end": 30401,
+        "bosses_increase": 81
     },
     {
         "player_name": "8llu",
@@ -216,8 +216,8 @@
         "raids_end": 337,
         "raids_increase": 3,
         "bosses_start": 12617,
-        "bosses_end": 12627,
-        "bosses_increase": 10
+        "bosses_end": 12634,
+        "bosses_increase": 17
     },
     {
         "player_name": "Dre1",
