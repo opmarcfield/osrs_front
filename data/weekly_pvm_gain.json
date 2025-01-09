@@ -40,16 +40,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "ArtiMeyer",
-        "week_start_date": "2025-01-06",
-        "raids_start": 110,
-        "raids_end": 110,
-        "raids_increase": 0,
-        "bosses_start": 7049,
-        "bosses_end": 7101,
-        "bosses_increase": 52
-    },
-    {
         "player_name": "nodle boy",
         "week_start_date": "2025-01-06",
         "raids_start": 282,
@@ -68,16 +58,6 @@
         "bosses_start": 12336,
         "bosses_end": 12336,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "ThePatman",
-        "week_start_date": "2025-01-06",
-        "raids_start": 197,
-        "raids_end": 197,
-        "raids_increase": 0,
-        "bosses_start": 6691,
-        "bosses_end": 6694,
-        "bosses_increase": 3
     },
     {
         "player_name": "LurpakShakur",
@@ -120,6 +100,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "ThePatman",
+        "week_start_date": "2025-01-06",
+        "raids_start": 197,
+        "raids_end": 197,
+        "raids_increase": 0,
+        "bosses_start": 6691,
+        "bosses_end": 6695,
+        "bosses_increase": 4
+    },
+    {
         "player_name": "peajib",
         "week_start_date": "2025-01-06",
         "raids_start": 0,
@@ -133,21 +123,11 @@
         "player_name": "Dub Tbow",
         "week_start_date": "2025-01-06",
         "raids_start": 1599,
-        "raids_end": 1603,
-        "raids_increase": 4,
+        "raids_end": 1609,
+        "raids_increase": 10,
         "bosses_start": 68647,
-        "bosses_end": 68783,
-        "bosses_increase": 136
-    },
-    {
-        "player_name": "daddy thor",
-        "week_start_date": "2025-01-06",
-        "raids_start": 7513,
-        "raids_end": 7513,
-        "raids_increase": 0,
-        "bosses_start": 24508,
-        "bosses_end": 24508,
-        "bosses_increase": 0
+        "bosses_end": 68964,
+        "bosses_increase": 317
     },
     {
         "player_name": "Se rena",
@@ -160,14 +140,34 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "daddy thor",
+        "week_start_date": "2025-01-06",
+        "raids_start": 7513,
+        "raids_end": 7516,
+        "raids_increase": 3,
+        "bosses_start": 24508,
+        "bosses_end": 24508,
+        "bosses_increase": 0
+    },
+    {
         "player_name": "GetPurpz",
         "week_start_date": "2025-01-06",
         "raids_start": 1617,
         "raids_end": 1617,
         "raids_increase": 0,
         "bosses_start": 28966,
-        "bosses_end": 29003,
-        "bosses_increase": 37
+        "bosses_end": 29029,
+        "bosses_increase": 63
+    },
+    {
+        "player_name": "ArtiMeyer",
+        "week_start_date": "2025-01-06",
+        "raids_start": 110,
+        "raids_end": 110,
+        "raids_increase": 0,
+        "bosses_start": 7049,
+        "bosses_end": 7103,
+        "bosses_increase": 54
     },
     {
         "player_name": "BrutaIX",
@@ -196,8 +196,8 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 30320,
-        "bosses_end": 30401,
-        "bosses_increase": 81
+        "bosses_end": 30447,
+        "bosses_increase": 127
     },
     {
         "player_name": "8llu",
@@ -208,16 +208,6 @@
         "bosses_start": 1214,
         "bosses_end": 1214,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-01-06",
-        "raids_start": 334,
-        "raids_end": 337,
-        "raids_increase": 3,
-        "bosses_start": 12617,
-        "bosses_end": 12634,
-        "bosses_increase": 17
     },
     {
         "player_name": "Dre1",
@@ -238,6 +228,16 @@
         "bosses_start": 9641,
         "bosses_end": 9641,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2025-01-06",
+        "raids_start": 334,
+        "raids_end": 337,
+        "raids_increase": 3,
+        "bosses_start": 12617,
+        "bosses_end": 12639,
+        "bosses_increase": 22
     },
     {
         "player_name": "Hoarseness",
