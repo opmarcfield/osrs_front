@@ -100,6 +100,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "peajib",
+        "week_start_date": "2025-01-13",
+        "raids_start": 0,
+        "raids_end": 0,
+        "raids_increase": 0,
+        "bosses_start": 8919,
+        "bosses_end": 8988,
+        "bosses_increase": 69
+    },
+    {
         "player_name": "ArtiMeyer",
         "week_start_date": "2025-01-13",
         "raids_start": 114,
@@ -116,18 +126,8 @@
         "raids_end": 1620,
         "raids_increase": 3,
         "bosses_start": 29118,
-        "bosses_end": 29251,
-        "bosses_increase": 133
-    },
-    {
-        "player_name": "peajib",
-        "week_start_date": "2025-01-13",
-        "raids_start": 0,
-        "raids_end": 0,
-        "raids_increase": 0,
-        "bosses_start": 8919,
-        "bosses_end": 8949,
-        "bosses_increase": 30
+        "bosses_end": 29252,
+        "bosses_increase": 134
     },
     {
         "player_name": "Pure Tristan",
@@ -183,21 +183,21 @@
         "player_name": "ThePatman",
         "week_start_date": "2025-01-13",
         "raids_start": 197,
-        "raids_end": 197,
-        "raids_increase": 0,
+        "raids_end": 198,
+        "raids_increase": 1,
         "bosses_start": 6716,
-        "bosses_end": 6716,
-        "bosses_increase": 0
+        "bosses_end": 6735,
+        "bosses_increase": 19
     },
     {
         "player_name": "Main Scaper",
         "week_start_date": "2025-01-13",
         "raids_start": 644,
-        "raids_end": 646,
-        "raids_increase": 2,
+        "raids_end": 647,
+        "raids_increase": 3,
         "bosses_start": 12387,
-        "bosses_end": 12407,
-        "bosses_increase": 20
+        "bosses_end": 12425,
+        "bosses_increase": 38
     },
     {
         "player_name": "daddy thor",
@@ -213,11 +213,11 @@
         "player_name": "Dub Tbow",
         "week_start_date": "2025-01-13",
         "raids_start": 1626,
-        "raids_end": 1637,
-        "raids_increase": 11,
+        "raids_end": 1645,
+        "raids_increase": 19,
         "bosses_start": 69102,
-        "bosses_end": 69509,
-        "bosses_increase": 407
+        "bosses_end": 69638,
+        "bosses_increase": 536
     },
     {
         "player_name": "solo_glow",
