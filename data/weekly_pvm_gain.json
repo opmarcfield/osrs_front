@@ -106,8 +106,8 @@
         "raids_end": 0,
         "raids_increase": 0,
         "bosses_start": 8919,
-        "bosses_end": 8988,
-        "bosses_increase": 69
+        "bosses_end": 9001,
+        "bosses_increase": 82
     },
     {
         "player_name": "ArtiMeyer",
@@ -120,16 +120,6 @@
         "bosses_increase": 2
     },
     {
-        "player_name": "GetPurpz",
-        "week_start_date": "2025-01-13",
-        "raids_start": 1617,
-        "raids_end": 1620,
-        "raids_increase": 3,
-        "bosses_start": 29118,
-        "bosses_end": 29252,
-        "bosses_increase": 134
-    },
-    {
         "player_name": "Pure Tristan",
         "week_start_date": "2025-01-13",
         "raids_start": 16,
@@ -138,6 +128,16 @@
         "bosses_start": 30577,
         "bosses_end": 30680,
         "bosses_increase": 103
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start_date": "2025-01-13",
+        "raids_start": 1617,
+        "raids_end": 1620,
+        "raids_increase": 3,
+        "bosses_start": 29118,
+        "bosses_end": 29312,
+        "bosses_increase": 194
     },
     {
         "player_name": "0nlySpoonz",
@@ -183,11 +183,11 @@
         "player_name": "ThePatman",
         "week_start_date": "2025-01-13",
         "raids_start": 197,
-        "raids_end": 198,
-        "raids_increase": 1,
+        "raids_end": 199,
+        "raids_increase": 2,
         "bosses_start": 6716,
-        "bosses_end": 6735,
-        "bosses_increase": 19
+        "bosses_end": 6772,
+        "bosses_increase": 56
     },
     {
         "player_name": "Main Scaper",
@@ -216,8 +216,8 @@
         "raids_end": 1645,
         "raids_increase": 19,
         "bosses_start": 69102,
-        "bosses_end": 69638,
-        "bosses_increase": 536
+        "bosses_end": 69808,
+        "bosses_increase": 706
     },
     {
         "player_name": "solo_glow",
