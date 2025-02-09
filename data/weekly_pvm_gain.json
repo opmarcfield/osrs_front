@@ -36,8 +36,18 @@
         "raids_end": -6,
         "raids_increase": 0,
         "bosses_start": 979,
-        "bosses_end": 994,
-        "bosses_increase": 15
+        "bosses_end": 1043,
+        "bosses_increase": 64
+    },
+    {
+        "player_name": "ThePatman",
+        "week_start_date": "2025-02-03",
+        "raids_start": 209,
+        "raids_end": 362,
+        "raids_increase": 153,
+        "bosses_start": 6761,
+        "bosses_end": 7034,
+        "bosses_increase": 273
     },
     {
         "player_name": "SquatJogsBro",
@@ -48,16 +58,6 @@
         "bosses_start": 10013,
         "bosses_end": 11965,
         "bosses_increase": 1952
-    },
-    {
-        "player_name": "ThePatman",
-        "week_start_date": "2025-02-03",
-        "raids_start": 209,
-        "raids_end": 362,
-        "raids_increase": 153,
-        "bosses_start": 6761,
-        "bosses_end": 6991,
-        "bosses_increase": 230
     },
     {
         "player_name": "nodle boy",
@@ -126,8 +126,8 @@
         "raids_end": 9020,
         "raids_increase": 7321,
         "bosses_start": 62916,
-        "bosses_end": 71186,
-        "bosses_increase": 8270
+        "bosses_end": 71497,
+        "bosses_increase": 8581
     },
     {
         "player_name": "Dre1",
@@ -136,8 +136,8 @@
         "raids_end": 4674,
         "raids_increase": 3762,
         "bosses_start": 27436,
-        "bosses_end": 33611,
-        "bosses_increase": 6175
+        "bosses_end": 33622,
+        "bosses_increase": 6186
     },
     {
         "player_name": "Hoarseness",
@@ -206,8 +206,8 @@
         "raids_end": 843,
         "raids_increase": 182,
         "bosses_start": 10727,
-        "bosses_end": 12535,
-        "bosses_increase": 1808
+        "bosses_end": 12544,
+        "bosses_increase": 1817
     },
     {
         "player_name": "GetPurpz",
@@ -216,18 +216,8 @@
         "raids_end": 3377,
         "raids_increase": 1741,
         "bosses_start": 27381,
-        "bosses_end": 30381,
-        "bosses_increase": 3000
-    },
-    {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2025-02-03",
-        "raids_start": 16,
-        "raids_end": 2313,
-        "raids_increase": 2297,
-        "bosses_start": 28918,
-        "bosses_end": 31140,
-        "bosses_increase": 2222
+        "bosses_end": 30521,
+        "bosses_increase": 3140
     },
     {
         "player_name": "solo_glow",
@@ -238,6 +228,16 @@
         "bosses_start": 6830,
         "bosses_end": 7293,
         "bosses_increase": 463
+    },
+    {
+        "player_name": "Pure Tristan",
+        "week_start_date": "2025-02-03",
+        "raids_start": 16,
+        "raids_end": 2313,
+        "raids_increase": 2297,
+        "bosses_start": 28918,
+        "bosses_end": 31257,
+        "bosses_increase": 2339
     },
     {
         "player_name": "rocketdoggy",
