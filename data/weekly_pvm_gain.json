@@ -120,16 +120,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Dre1",
-        "week_start_date": "2025-02-17",
-        "raids_start": 914,
-        "raids_end": 914,
-        "raids_increase": 0,
-        "bosses_start": 33676,
-        "bosses_end": 33739,
-        "bosses_increase": 63
-    },
-    {
         "player_name": "LurpakShakur",
         "week_start_date": "2025-02-17",
         "raids_start": -6,
@@ -140,14 +130,14 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Dub Tbow",
+        "player_name": "Dre1",
         "week_start_date": "2025-02-17",
-        "raids_start": 1712,
-        "raids_end": 1721,
-        "raids_increase": 9,
-        "bosses_start": 71931,
-        "bosses_end": 72538,
-        "bosses_increase": 607
+        "raids_start": 914,
+        "raids_end": 914,
+        "raids_increase": 0,
+        "bosses_start": 33676,
+        "bosses_end": 33739,
+        "bosses_increase": 63
     },
     {
         "player_name": "daddy thor",
@@ -158,6 +148,16 @@
         "bosses_start": 24512,
         "bosses_end": 24512,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "Dub Tbow",
+        "week_start_date": "2025-02-17",
+        "raids_start": 1712,
+        "raids_end": 1721,
+        "raids_increase": 9,
+        "bosses_start": 71931,
+        "bosses_end": 72567,
+        "bosses_increase": 636
     },
     {
         "player_name": "Logannen",
@@ -180,16 +180,6 @@
         "bosses_increase": 108
     },
     {
-        "player_name": "Main Scaper",
-        "week_start_date": "2025-02-17",
-        "raids_start": 667,
-        "raids_end": 668,
-        "raids_increase": 1,
-        "bosses_start": 12599,
-        "bosses_end": 12621,
-        "bosses_increase": 22
-    },
-    {
         "player_name": "SquatJogsBro",
         "week_start_date": "2025-02-17",
         "raids_start": 95,
@@ -208,6 +198,16 @@
         "bosses_start": 7293,
         "bosses_end": 7293,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "Main Scaper",
+        "week_start_date": "2025-02-17",
+        "raids_start": 667,
+        "raids_end": 668,
+        "raids_increase": 1,
+        "bosses_start": 12599,
+        "bosses_end": 12621,
+        "bosses_increase": 22
     },
     {
         "player_name": "BrutaIX",
@@ -246,7 +246,7 @@
         "raids_end": 1640,
         "raids_increase": 0,
         "bosses_start": 31486,
-        "bosses_end": 31757,
-        "bosses_increase": 271
+        "bosses_end": 31823,
+        "bosses_increase": 337
     }
 ]
