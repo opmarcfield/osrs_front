@@ -120,16 +120,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "LurpakShakur",
-        "week_start_date": "2025-02-17",
-        "raids_start": -6,
-        "raids_end": -6,
-        "raids_increase": 0,
-        "bosses_start": 940,
-        "bosses_end": 940,
-        "bosses_increase": 0
-    },
-    {
         "player_name": "Dre1",
         "week_start_date": "2025-02-17",
         "raids_start": 914,
@@ -140,13 +130,13 @@
         "bosses_increase": 63
     },
     {
-        "player_name": "daddy thor",
+        "player_name": "LurpakShakur",
         "week_start_date": "2025-02-17",
-        "raids_start": 7542,
-        "raids_end": 7542,
+        "raids_start": -6,
+        "raids_end": -6,
         "raids_increase": 0,
-        "bosses_start": 24512,
-        "bosses_end": 24512,
+        "bosses_start": 940,
+        "bosses_end": 940,
         "bosses_increase": 0
     },
     {
@@ -156,8 +146,18 @@
         "raids_end": 1721,
         "raids_increase": 9,
         "bosses_start": 71931,
-        "bosses_end": 72567,
-        "bosses_increase": 636
+        "bosses_end": 72581,
+        "bosses_increase": 650
+    },
+    {
+        "player_name": "daddy thor",
+        "week_start_date": "2025-02-17",
+        "raids_start": 7542,
+        "raids_end": 7542,
+        "raids_increase": 0,
+        "bosses_start": 24512,
+        "bosses_end": 24512,
+        "bosses_increase": 0
     },
     {
         "player_name": "Logannen",
@@ -176,8 +176,8 @@
         "raids_end": -6,
         "raids_increase": 0,
         "bosses_start": 1164,
-        "bosses_end": 1272,
-        "bosses_increase": 108
+        "bosses_end": 1316,
+        "bosses_increase": 152
     },
     {
         "player_name": "SquatJogsBro",
@@ -206,8 +206,8 @@
         "raids_end": 668,
         "raids_increase": 1,
         "bosses_start": 12599,
-        "bosses_end": 12621,
-        "bosses_increase": 22
+        "bosses_end": 12669,
+        "bosses_increase": 70
     },
     {
         "player_name": "BrutaIX",
@@ -246,7 +246,7 @@
         "raids_end": 1640,
         "raids_increase": 0,
         "bosses_start": 31486,
-        "bosses_end": 31823,
-        "bosses_increase": 337
+        "bosses_end": 31940,
+        "bosses_increase": 454
     }
 ]
