@@ -60,16 +60,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "Dub Tbow",
-        "week_start_date": "2025-02-24",
-        "raids_start": 1721,
-        "raids_end": 1726,
-        "raids_increase": 5,
-        "bosses_start": 72635,
-        "bosses_end": 72889,
-        "bosses_increase": 254
-    },
-    {
         "player_name": "SquatJogsBro",
         "week_start_date": "2025-02-24",
         "raids_start": 95,
@@ -130,6 +120,16 @@
         "bosses_increase": 183
     },
     {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2025-02-24",
+        "raids_start": 402,
+        "raids_end": 402,
+        "raids_increase": 0,
+        "bosses_start": 12869,
+        "bosses_end": 12881,
+        "bosses_increase": 12
+    },
+    {
         "player_name": "peajib",
         "week_start_date": "2025-02-24",
         "raids_start": 0,
@@ -148,6 +148,16 @@
         "bosses_start": 1213,
         "bosses_end": 1213,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start_date": "2025-02-24",
+        "raids_start": 1640,
+        "raids_end": 1645,
+        "raids_increase": 5,
+        "bosses_start": 32038,
+        "bosses_end": 32372,
+        "bosses_increase": 334
     },
     {
         "player_name": "Main Scaper",
@@ -170,24 +180,14 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "GetPurpz",
+        "player_name": "Dub Tbow",
         "week_start_date": "2025-02-24",
-        "raids_start": 1640,
-        "raids_end": 1645,
+        "raids_start": 1721,
+        "raids_end": 1726,
         "raids_increase": 5,
-        "bosses_start": 32038,
-        "bosses_end": 32264,
-        "bosses_increase": 226
-    },
-    {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-02-24",
-        "raids_start": 402,
-        "raids_end": 402,
-        "raids_increase": 0,
-        "bosses_start": 12869,
-        "bosses_end": 12881,
-        "bosses_increase": 12
+        "bosses_start": 72635,
+        "bosses_end": 72909,
+        "bosses_increase": 274
     },
     {
         "player_name": "Pure Tristan",
