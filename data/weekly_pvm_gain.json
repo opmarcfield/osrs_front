@@ -30,16 +30,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "GetPurpz",
-        "week_start_date": "2025-03-03",
-        "raids_start": 1650,
-        "raids_end": 1651,
-        "raids_increase": 1,
-        "bosses_start": 32555,
-        "bosses_end": 32590,
-        "bosses_increase": 35
-    },
-    {
         "player_name": "Dre1",
         "week_start_date": "2025-03-03",
         "raids_start": 914,
@@ -180,6 +170,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "GetPurpz",
+        "week_start_date": "2025-03-03",
+        "raids_start": 1650,
+        "raids_end": 1656,
+        "raids_increase": 6,
+        "bosses_start": 32555,
+        "bosses_end": 32673,
+        "bosses_increase": 118
+    },
+    {
         "player_name": "daddy thor",
         "week_start_date": "2025-03-03",
         "raids_start": 7542,
@@ -198,16 +198,6 @@
         "bosses_start": 12890,
         "bosses_end": 12890,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2025-03-03",
-        "raids_start": 16,
-        "raids_end": 16,
-        "raids_increase": 0,
-        "bosses_start": 31699,
-        "bosses_end": 31700,
-        "bosses_increase": 1
     },
     {
         "player_name": "Logannen",
@@ -230,14 +220,24 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Pure Tristan",
+        "week_start_date": "2025-03-03",
+        "raids_start": 16,
+        "raids_end": 16,
+        "raids_increase": 0,
+        "bosses_start": 31699,
+        "bosses_end": 31709,
+        "bosses_increase": 10
+    },
+    {
         "player_name": "Dub Tbow",
         "week_start_date": "2025-03-03",
         "raids_start": 1741,
-        "raids_end": 1746,
-        "raids_increase": 5,
+        "raids_end": 1751,
+        "raids_increase": 10,
         "bosses_start": 73052,
-        "bosses_end": 73253,
-        "bosses_increase": 201
+        "bosses_end": 73269,
+        "bosses_increase": 217
     },
     {
         "player_name": "ThePatman",
