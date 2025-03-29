@@ -3,8 +3,8 @@
         "player_name": "Dub Tbow",
         "week_start": "2025-03-24",
         "start_experience": 849234356,
-        "end_experience": 852960039,
-        "experience_gain": 3725683
+        "end_experience": 853659018,
+        "experience_gain": 4424662
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
@@ -13,8 +13,8 @@
         "raids_end": 1822,
         "raids_increase": 12,
         "bosses_start": 74819,
-        "bosses_end": 74888,
-        "bosses_increase": 69
+        "bosses_end": 74915,
+        "bosses_increase": 96
     },
     "top_bosses_gain": {
         "player_name": "Pure Tristan",
@@ -23,7 +23,7 @@
         "raids_end": 16,
         "raids_increase": 0,
         "bosses_start": 33008,
-        "bosses_end": 33252,
-        "bosses_increase": 244
+        "bosses_end": 33369,
+        "bosses_increase": 361
     }
 }
