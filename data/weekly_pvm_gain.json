@@ -116,8 +116,8 @@
         "raids_end": 674,
         "raids_increase": 0,
         "bosses_start": 13292,
-        "bosses_end": 13392,
-        "bosses_increase": 100
+        "bosses_end": 13522,
+        "bosses_increase": 230
     },
     {
         "player_name": "Dub Tbow",
@@ -126,8 +126,8 @@
         "raids_end": 1863,
         "raids_increase": 4,
         "bosses_start": 75575,
-        "bosses_end": 75583,
-        "bosses_increase": 8
+        "bosses_end": 75657,
+        "bosses_increase": 82
     },
     {
         "player_name": "Se rena",
@@ -146,8 +146,8 @@
         "raids_end": 234,
         "raids_increase": 0,
         "bosses_start": 7983,
-        "bosses_end": 8054,
-        "bosses_increase": 71
+        "bosses_end": 8068,
+        "bosses_increase": 85
     },
     {
         "player_name": "Sunneh",
@@ -166,8 +166,8 @@
         "raids_end": 7555,
         "raids_increase": 1,
         "bosses_start": 24516,
-        "bosses_end": 24516,
-        "bosses_increase": 0
+        "bosses_end": 24526,
+        "bosses_increase": 10
     },
     {
         "player_name": "Kasmacku",
@@ -213,11 +213,11 @@
         "player_name": "Pure Tristan",
         "week_start_date": "2025-04-07",
         "raids_start": 16,
-        "raids_end": 16,
-        "raids_increase": 0,
+        "raids_end": 18,
+        "raids_increase": 2,
         "bosses_start": 33904,
-        "bosses_end": 34115,
-        "bosses_increase": 211
+        "bosses_end": 34162,
+        "bosses_increase": 258
     },
     {
         "player_name": "SquatJogsBro",
@@ -246,7 +246,7 @@
         "raids_end": 1720,
         "raids_increase": 1,
         "bosses_start": 34914,
-        "bosses_end": 35108,
-        "bosses_increase": 194
+        "bosses_end": 35145,
+        "bosses_increase": 231
     }
 ]
