@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "Dub Tbow",
-        "week_start": "2025-04-07",
-        "start_experience": 865059364,
-        "end_experience": 865059364,
-        "experience_gain": 4222476
+        "player_name": "Dre1",
+        "week_start": "2025-04-14",
+        "start_experience": 536355012,
+        "end_experience": 537004217,
+        "experience_gain": 649205
     },
     "top_raids_gain": {
-        "player_name": "Dub Tbow",
-        "week_start_date": "2025-04-07",
-        "raids_start": 1867,
-        "raids_end": 1867,
-        "raids_increase": 8,
-        "bosses_start": 75680,
-        "bosses_end": 75680,
-        "bosses_increase": 105
+        "player_name": "daddy thor",
+        "week_start_date": "2025-04-14",
+        "raids_start": 7556,
+        "raids_end": 7560,
+        "raids_increase": 4,
+        "bosses_start": 24526,
+        "bosses_end": 24526,
+        "bosses_increase": 0
     },
     "top_bosses_gain": {
-        "player_name": "Main Scaper",
-        "week_start_date": "2025-04-07",
-        "raids_start": 674,
-        "raids_end": 674,
+        "player_name": "Dre1",
+        "week_start_date": "2025-04-14",
+        "raids_start": 920,
+        "raids_end": 920,
         "raids_increase": 0,
-        "bosses_start": 13752,
-        "bosses_end": 13752,
-        "bosses_increase": 460
+        "bosses_start": 34255,
+        "bosses_end": 34389,
+        "bosses_increase": 134
     }
 }
