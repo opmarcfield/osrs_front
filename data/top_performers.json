@@ -3,18 +3,18 @@
         "player_name": "Dub Tbow",
         "week_start": "2025-04-21",
         "start_experience": 869712277,
-        "end_experience": 875820546,
-        "experience_gain": 6108269
+        "end_experience": 876355000,
+        "experience_gain": 6642723
     },
     "top_raids_gain": {
-        "player_name": "daddy thor",
+        "player_name": "GetPurpz",
         "week_start_date": "2025-04-21",
-        "raids_start": 7561,
-        "raids_end": 7565,
+        "raids_start": 1744,
+        "raids_end": 1748,
         "raids_increase": 4,
-        "bosses_start": 24526,
-        "bosses_end": 24533,
-        "bosses_increase": 7
+        "bosses_start": 35462,
+        "bosses_end": 35539,
+        "bosses_increase": 77
     },
     "top_bosses_gain": {
         "player_name": "Dub Tbow",
@@ -23,7 +23,7 @@
         "raids_end": 1891,
         "raids_increase": 2,
         "bosses_start": 75819,
-        "bosses_end": 76161,
-        "bosses_increase": 342
+        "bosses_end": 76314,
+        "bosses_increase": 495
     }
 }
