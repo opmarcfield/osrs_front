@@ -3,8 +3,8 @@
         "player_name": "peajib",
         "week_start": "2025-04-28",
         "start_experience": 186277166,
-        "end_experience": 188806844,
-        "experience_gain": 2529678
+        "end_experience": 188936021,
+        "experience_gain": 2658855
     },
     "top_raids_gain": {
         "player_name": "GetPurpz",
@@ -13,8 +13,8 @@
         "raids_end": 1750,
         "raids_increase": 2,
         "bosses_start": 35539,
-        "bosses_end": 35539,
-        "bosses_increase": 0
+        "bosses_end": 35560,
+        "bosses_increase": 21
     },
     "top_bosses_gain": {
         "player_name": "peajib",
@@ -23,7 +23,7 @@
         "raids_end": 0,
         "raids_increase": 0,
         "bosses_start": 12387,
-        "bosses_end": 12590,
-        "bosses_increase": 203
+        "bosses_end": 12594,
+        "bosses_increase": 207
     }
 }
