@@ -14,6 +14,13 @@
         "experience_gain": 0
     },
     {
+        "player_name": "ArtiMeyer",
+        "week_start": "2025-05-05",
+        "start_experience": 283839756,
+        "end_experience": 286532184,
+        "experience_gain": 2692428
+    },
+    {
         "player_name": "SquatJogsBro",
         "week_start": "2025-05-05",
         "start_experience": 342036051,
@@ -24,8 +31,8 @@
         "player_name": "ThePatman",
         "week_start": "2025-05-05",
         "start_experience": 199869235,
-        "end_experience": 200662871,
-        "experience_gain": 793636
+        "end_experience": 200699477,
+        "experience_gain": 830242
     },
     {
         "player_name": "Kasmacku",
@@ -40,13 +47,6 @@
         "start_experience": 142206647,
         "end_experience": 142206647,
         "experience_gain": 0
-    },
-    {
-        "player_name": "ArtiMeyer",
-        "week_start": "2025-05-05",
-        "start_experience": 283839756,
-        "end_experience": 285538213,
-        "experience_gain": 1698457
     },
     {
         "player_name": "Se rena",
@@ -66,15 +66,8 @@
         "player_name": "Main Scaper",
         "week_start": "2025-05-05",
         "start_experience": 452786644,
-        "end_experience": 453257791,
-        "experience_gain": 471147
-    },
-    {
-        "player_name": "rocketdoggy",
-        "week_start": "2025-05-05",
-        "start_experience": 207973695,
-        "end_experience": 207973695,
-        "experience_gain": 0
+        "end_experience": 453489959,
+        "experience_gain": 703315
     },
     {
         "player_name": "daddy thor",
@@ -84,11 +77,18 @@
         "experience_gain": 0
     },
     {
+        "player_name": "rocketdoggy",
+        "week_start": "2025-05-05",
+        "start_experience": 207973695,
+        "end_experience": 207973695,
+        "experience_gain": 0
+    },
+    {
         "player_name": "peajib",
         "week_start": "2025-05-05",
         "start_experience": 191645074,
-        "end_experience": 197087608,
-        "experience_gain": 5442534
+        "end_experience": 197242461,
+        "experience_gain": 5597387
     },
     {
         "player_name": "X Skimo",
@@ -105,18 +105,18 @@
         "experience_gain": 0
     },
     {
-        "player_name": "GetPurpz",
-        "week_start": "2025-05-05",
-        "start_experience": 449238297,
-        "end_experience": 450790382,
-        "experience_gain": 1552085
-    },
-    {
         "player_name": "Sunneh",
         "week_start": "2025-05-05",
         "start_experience": 175044140,
         "end_experience": 175044140,
         "experience_gain": 0
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start": "2025-05-05",
+        "start_experience": 449238297,
+        "end_experience": 451028101,
+        "experience_gain": 1789804
     },
     {
         "player_name": "W0nderbrad",
@@ -129,15 +129,15 @@
         "player_name": "Dre1",
         "week_start": "2025-05-05",
         "start_experience": 543821508,
-        "end_experience": 544773569,
-        "experience_gain": 952061
+        "end_experience": 544843246,
+        "experience_gain": 1021738
     },
     {
         "player_name": "0nlySpoonz",
         "week_start": "2025-05-05",
         "start_experience": 212432024,
-        "end_experience": 212551908,
-        "experience_gain": 119884
+        "end_experience": 212622371,
+        "experience_gain": 190347
     },
     {
         "player_name": "Logannen",
@@ -150,15 +150,15 @@
         "player_name": "Pure Tristan",
         "week_start": "2025-05-05",
         "start_experience": 497428497,
-        "end_experience": 502048674,
-        "experience_gain": 4620177
+        "end_experience": 502383759,
+        "experience_gain": 4955262
     },
     {
         "player_name": "Dub Tbow",
         "week_start": "2025-05-05",
         "start_experience": 882030006,
-        "end_experience": 890656371,
-        "experience_gain": 8626365
+        "end_experience": 891735172,
+        "experience_gain": 9705166
     },
     {
         "player_name": "Hoarseness",
