@@ -3,8 +3,8 @@
         "player_name": "GetPurpz",
         "week_start": "2025-05-19",
         "start_experience": 456895402,
-        "end_experience": 459839821,
-        "experience_gain": 2944419
+        "end_experience": 460956696,
+        "experience_gain": 4061294
     },
     "top_raids_gain": {
         "player_name": "ThePatman",
@@ -23,7 +23,7 @@
         "raids_end": 1,
         "raids_increase": 0,
         "bosses_start": 13630,
-        "bosses_end": 13997,
-        "bosses_increase": 367
+        "bosses_end": 14007,
+        "bosses_increase": 377
     }
 }
