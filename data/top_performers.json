@@ -3,17 +3,17 @@
         "player_name": "Pure Tristan",
         "week_start": "2025-05-19",
         "start_experience": 507192572,
-        "end_experience": 511728080,
-        "experience_gain": 4535508
+        "end_experience": 511991530,
+        "experience_gain": 4798958
     },
     "top_raids_gain": {
-        "player_name": "ThePatman",
+        "player_name": "LurpakShakur",
         "week_start_date": "2025-05-19",
-        "raids_start": 260,
-        "raids_end": 260,
+        "raids_start": -6,
+        "raids_end": -6,
         "raids_increase": 0,
-        "bosses_start": 8503,
-        "bosses_end": 8503,
+        "bosses_start": 939,
+        "bosses_end": 939,
         "bosses_increase": 0
     },
     "top_bosses_gain": {
@@ -23,7 +23,7 @@
         "raids_end": 1,
         "raids_increase": 0,
         "bosses_start": 13630,
-        "bosses_end": 14028,
-        "bosses_increase": 398
+        "bosses_end": 14029,
+        "bosses_increase": 399
     }
 }
