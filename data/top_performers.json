@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "Pure Tristan",
-        "week_start": "2025-05-19",
-        "start_experience": 512191375,
-        "end_experience": 512191375,
-        "experience_gain": 4998803
+        "player_name": "peajib",
+        "week_start": "2025-05-26",
+        "start_experience": 202726000,
+        "end_experience": 203911849,
+        "experience_gain": 1185849
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
-        "week_start_date": "2025-05-19",
+        "week_start_date": "2025-05-26",
         "raids_start": 1920,
-        "raids_end": 1920,
-        "raids_increase": 4,
+        "raids_end": 1930,
+        "raids_increase": 10,
         "bosses_start": 77618,
         "bosses_end": 77618,
-        "bosses_increase": 27
+        "bosses_increase": 0
     },
     "top_bosses_gain": {
         "player_name": "peajib",
-        "week_start_date": "2025-05-19",
+        "week_start_date": "2025-05-26",
         "raids_start": 1,
         "raids_end": 1,
         "raids_increase": 0,
         "bosses_start": 14106,
-        "bosses_end": 14106,
-        "bosses_increase": 476
+        "bosses_end": 14322,
+        "bosses_increase": 216
     }
 }
