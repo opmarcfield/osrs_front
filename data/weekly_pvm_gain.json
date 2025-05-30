@@ -56,18 +56,8 @@
         "raids_end": 1949,
         "raids_increase": 29,
         "bosses_start": 77618,
-        "bosses_end": 77629,
-        "bosses_increase": 11
-    },
-    {
-        "player_name": "Pure Tristan",
-        "week_start_date": "2025-05-26",
-        "raids_start": 20,
-        "raids_end": 20,
-        "raids_increase": 0,
-        "bosses_start": 36577,
-        "bosses_end": 36710,
-        "bosses_increase": 133
+        "bosses_end": 77641,
+        "bosses_increase": 23
     },
     {
         "player_name": "daddy thor",
@@ -90,6 +80,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Pure Tristan",
+        "week_start_date": "2025-05-26",
+        "raids_start": 20,
+        "raids_end": 20,
+        "raids_increase": 0,
+        "bosses_start": 36577,
+        "bosses_end": 36711,
+        "bosses_increase": 134
+    },
+    {
         "player_name": "Main Scaper",
         "week_start_date": "2025-05-26",
         "raids_start": 680,
@@ -106,8 +106,8 @@
         "raids_end": 147,
         "raids_increase": 2,
         "bosses_start": 7645,
-        "bosses_end": 7658,
-        "bosses_increase": 13
+        "bosses_end": 7703,
+        "bosses_increase": 58
     },
     {
         "player_name": "nodle boy",
@@ -146,8 +146,8 @@
         "raids_end": 1777,
         "raids_increase": 0,
         "bosses_start": 36452,
-        "bosses_end": 36612,
-        "bosses_increase": 160
+        "bosses_end": 36658,
+        "bosses_increase": 206
     },
     {
         "player_name": "X Skimo",
@@ -196,8 +196,18 @@
         "raids_end": 465,
         "raids_increase": 4,
         "bosses_start": 13938,
-        "bosses_end": 14055,
-        "bosses_increase": 117
+        "bosses_end": 14194,
+        "bosses_increase": 256
+    },
+    {
+        "player_name": "Dre1",
+        "week_start_date": "2025-05-26",
+        "raids_start": 923,
+        "raids_end": 923,
+        "raids_increase": 0,
+        "bosses_start": 35902,
+        "bosses_end": 35936,
+        "bosses_increase": 34
     },
     {
         "player_name": "peajib",
@@ -227,16 +237,6 @@
         "raids_increase": 0,
         "bosses_start": 939,
         "bosses_end": 939,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "Dre1",
-        "week_start_date": "2025-05-26",
-        "raids_start": 923,
-        "raids_end": 923,
-        "raids_increase": 0,
-        "bosses_start": 35902,
-        "bosses_end": 35902,
         "bosses_increase": 0
     },
     {
