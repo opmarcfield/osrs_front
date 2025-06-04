@@ -30,6 +30,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2025-06-02",
+        "raids_start": 465,
+        "raids_end": 465,
+        "raids_increase": 0,
+        "bosses_start": 14194,
+        "bosses_end": 14287,
+        "bosses_increase": 93
+    },
+    {
         "player_name": "daddy thor",
         "week_start_date": "2025-06-02",
         "raids_start": 7566,
@@ -37,16 +47,6 @@
         "raids_increase": 0,
         "bosses_start": 24535,
         "bosses_end": 24535,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-06-02",
-        "raids_start": 465,
-        "raids_end": 465,
-        "raids_increase": 0,
-        "bosses_start": 14194,
-        "bosses_end": 14194,
         "bosses_increase": 0
     },
     {
@@ -156,8 +156,8 @@
         "raids_end": 1779,
         "raids_increase": 0,
         "bosses_start": 36886,
-        "bosses_end": 36956,
-        "bosses_increase": 70
+        "bosses_end": 37022,
+        "bosses_increase": 136
     },
     {
         "player_name": "ThePatman",
@@ -236,8 +236,8 @@
         "raids_end": 1949,
         "raids_increase": 0,
         "bosses_start": 77664,
-        "bosses_end": 77747,
-        "bosses_increase": 83
+        "bosses_end": 77894,
+        "bosses_increase": 230
     },
     {
         "player_name": "SquatJogsBro",

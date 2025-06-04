@@ -3,8 +3,8 @@
         "player_name": "GetPurpz",
         "week_start": "2025-06-02",
         "start_experience": 466978107,
-        "end_experience": 467921611,
-        "experience_gain": 943504
+        "end_experience": 468698880,
+        "experience_gain": 1720773
     },
     "top_raids_gain": {
         "player_name": "solo_glow",
@@ -23,7 +23,7 @@
         "raids_end": 1949,
         "raids_increase": 0,
         "bosses_start": 77664,
-        "bosses_end": 77747,
-        "bosses_increase": 83
+        "bosses_end": 77894,
+        "bosses_increase": 230
     }
 }
