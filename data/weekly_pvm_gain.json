@@ -136,8 +136,8 @@
         "raids_end": 680,
         "raids_increase": 0,
         "bosses_start": 14909,
-        "bosses_end": 14932,
-        "bosses_increase": 23
+        "bosses_end": 14937,
+        "bosses_increase": 28
     },
     {
         "player_name": "ArtiMeyer",
@@ -156,8 +156,8 @@
         "raids_end": 20,
         "raids_increase": 0,
         "bosses_start": 37132,
-        "bosses_end": 37234,
-        "bosses_increase": 102
+        "bosses_end": 37332,
+        "bosses_increase": 200
     },
     {
         "player_name": "Se rena",
@@ -226,8 +226,8 @@
         "raids_end": 923,
         "raids_increase": 0,
         "bosses_start": 36007,
-        "bosses_end": 36007,
-        "bosses_increase": 0
+        "bosses_end": 36022,
+        "bosses_increase": 15
     },
     {
         "player_name": "ThePatman",

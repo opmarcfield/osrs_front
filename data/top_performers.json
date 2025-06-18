@@ -3,8 +3,8 @@
         "player_name": "Pure Tristan",
         "week_start": "2025-06-16",
         "start_experience": 517934067,
-        "end_experience": 518293663,
-        "experience_gain": 359596
+        "end_experience": 518616334,
+        "experience_gain": 682267
     },
     "top_raids_gain": {
         "player_name": "GetPurpz",
@@ -23,7 +23,7 @@
         "raids_end": 20,
         "raids_increase": 0,
         "bosses_start": 37132,
-        "bosses_end": 37234,
-        "bosses_increase": 102
+        "bosses_end": 37332,
+        "bosses_increase": 200
     }
 }
