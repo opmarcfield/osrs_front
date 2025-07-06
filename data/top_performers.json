@@ -3,27 +3,27 @@
         "player_name": "GetPurpz",
         "week_start": "2025-06-30",
         "start_experience": 476820348,
-        "end_experience": 478795875,
-        "experience_gain": 1975527
+        "end_experience": 479601930,
+        "experience_gain": 2781582
     },
     "top_raids_gain": {
         "player_name": "daddy thor",
         "week_start_date": "2025-06-30",
         "raids_start": 7574,
-        "raids_end": 7586,
-        "raids_increase": 12,
+        "raids_end": 7590,
+        "raids_increase": 16,
         "bosses_start": 24650,
-        "bosses_end": 24731,
-        "bosses_increase": 81
+        "bosses_end": 24796,
+        "bosses_increase": 146
     },
     "top_bosses_gain": {
-        "player_name": "0nlySpoonz",
+        "player_name": "Pure Tristan",
         "week_start_date": "2025-06-30",
-        "raids_start": 472,
-        "raids_end": 476,
-        "raids_increase": 4,
-        "bosses_start": 14964,
-        "bosses_end": 15271,
-        "bosses_increase": 307
+        "raids_start": 20,
+        "raids_end": 20,
+        "raids_increase": 0,
+        "bosses_start": 38036,
+        "bosses_end": 38345,
+        "bosses_increase": 309
     }
 }
