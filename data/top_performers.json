@@ -3,18 +3,18 @@
         "player_name": "0nlySpoonz",
         "week_start": "2025-07-21",
         "start_experience": 230325583,
-        "end_experience": 231399680,
-        "experience_gain": 1074097
+        "end_experience": 231842734,
+        "experience_gain": 1517151
     },
     "top_raids_gain": {
         "player_name": "daddy thor",
         "week_start_date": "2025-07-21",
         "raids_start": 7692,
-        "raids_end": 7707,
-        "raids_increase": 15,
-        "bosses_start": 25041,
+        "raids_end": 7708,
+        "raids_increase": 16,
+        "bosses_start": 25040,
         "bosses_end": 25041,
-        "bosses_increase": 0
+        "bosses_increase": 1
     },
     "top_bosses_gain": {
         "player_name": "Dub Tbow",
