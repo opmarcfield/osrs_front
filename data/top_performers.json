@@ -1,17 +1,17 @@
 {
     "top_xp_gain": {
-        "player_name": "daddy thor",
+        "player_name": "ArtiMeyer",
         "week_start": "2025-07-28",
-        "start_experience": 824626357,
-        "end_experience": 825313616,
-        "experience_gain": 687259
+        "start_experience": 296014903,
+        "end_experience": 297184096,
+        "experience_gain": 1169193
     },
     "top_raids_gain": {
         "player_name": "daddy thor",
         "week_start_date": "2025-07-28",
         "raids_start": 7740,
-        "raids_end": 7753,
-        "raids_increase": 13,
+        "raids_end": 7757,
+        "raids_increase": 17,
         "bosses_start": 25100,
         "bosses_end": 25100,
         "bosses_increase": 0
