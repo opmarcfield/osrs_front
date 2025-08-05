@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "0nlySpoonz",
-        "week_start": "2025-07-28",
-        "start_experience": 237780514,
-        "end_experience": 237780514,
-        "experience_gain": 4591891
+        "player_name": "Dub Tbow",
+        "week_start": "2025-08-04",
+        "start_experience": 931762727,
+        "end_experience": 933045681,
+        "experience_gain": 1282954
     },
     "top_raids_gain": {
-        "player_name": "daddy thor",
-        "week_start_date": "2025-07-28",
-        "raids_start": 7784,
-        "raids_end": 7784,
-        "raids_increase": 44,
-        "bosses_start": 25136,
-        "bosses_end": 25136,
-        "bosses_increase": 36
+        "player_name": "Dub Tbow",
+        "week_start_date": "2025-08-04",
+        "raids_start": 2062,
+        "raids_end": 2066,
+        "raids_increase": 4,
+        "bosses_start": 79571,
+        "bosses_end": 79651,
+        "bosses_increase": 80
     },
     "top_bosses_gain": {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-07-28",
-        "raids_start": 523,
-        "raids_end": 523,
-        "raids_increase": 17,
-        "bosses_start": 15998,
-        "bosses_end": 15998,
-        "bosses_increase": 388
+        "player_name": "Pure Tristan",
+        "week_start_date": "2025-08-04",
+        "raids_start": 21,
+        "raids_end": 21,
+        "raids_increase": 0,
+        "bosses_start": 39390,
+        "bosses_end": 39553,
+        "bosses_increase": 163
     }
 }
