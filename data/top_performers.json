@@ -3,15 +3,15 @@
         "player_name": "GetPurpz",
         "week_start": "2025-08-04",
         "start_experience": 491970497,
-        "end_experience": 495493113,
-        "experience_gain": 3522616
+        "end_experience": 495892717,
+        "experience_gain": 3922220
     },
     "top_raids_gain": {
         "player_name": "Dub Tbow",
         "week_start_date": "2025-08-04",
         "raids_start": 2062,
-        "raids_end": 2085,
-        "raids_increase": 23,
+        "raids_end": 2088,
+        "raids_increase": 26,
         "bosses_start": 79571,
         "bosses_end": 79735,
         "bosses_increase": 164
@@ -23,7 +23,7 @@
         "raids_end": 21,
         "raids_increase": 0,
         "bosses_start": 39390,
-        "bosses_end": 40014,
-        "bosses_increase": 624
+        "bosses_end": 40028,
+        "bosses_increase": 638
     }
 }
