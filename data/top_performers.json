@@ -2,28 +2,28 @@
     "top_xp_gain": {
         "player_name": "peajib",
         "week_start": "2025-08-11",
-        "start_experience": 220784006,
-        "end_experience": 224499393,
-        "experience_gain": 3715387
+        "start_experience": 225606102,
+        "end_experience": 225606102,
+        "experience_gain": 4822096
     },
     "top_raids_gain": {
         "player_name": "daddy thor",
         "week_start_date": "2025-08-11",
-        "raids_start": 7823,
-        "raids_end": 7856,
-        "raids_increase": 33,
-        "bosses_start": 25174,
-        "bosses_end": 25177,
-        "bosses_increase": 3
+        "raids_start": 7862,
+        "raids_end": 7862,
+        "raids_increase": 39,
+        "bosses_start": 25183,
+        "bosses_end": 25183,
+        "bosses_increase": 9
     },
     "top_bosses_gain": {
-        "player_name": "Pure Tristan",
+        "player_name": "peajib",
         "week_start_date": "2025-08-11",
-        "raids_start": 21,
-        "raids_end": 22,
-        "raids_increase": 1,
-        "bosses_start": 40191,
-        "bosses_end": 40473,
-        "bosses_increase": 282
+        "raids_start": 1,
+        "raids_end": 1,
+        "raids_increase": 0,
+        "bosses_start": 17158,
+        "bosses_end": 17158,
+        "bosses_increase": 362
     }
 }
