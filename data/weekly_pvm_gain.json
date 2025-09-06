@@ -133,8 +133,8 @@
         "player_name": "Pure Tristan",
         "week_start_date": "2025-09-01",
         "raids_start": 40,
-        "raids_end": 45,
-        "raids_increase": 5,
+        "raids_end": 48,
+        "raids_increase": 8,
         "bosses_start": 40763,
         "bosses_end": 40845,
         "bosses_increase": 82
@@ -148,16 +148,6 @@
         "bosses_start": 9696,
         "bosses_end": 9696,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "peajib",
-        "week_start_date": "2025-09-01",
-        "raids_start": 1,
-        "raids_end": 1,
-        "raids_increase": 0,
-        "bosses_start": 18537,
-        "bosses_end": 18664,
-        "bosses_increase": 127
     },
     {
         "player_name": "Se rena",
@@ -176,15 +166,25 @@
         "raids_end": 938,
         "raids_increase": 5,
         "bosses_start": 37233,
-        "bosses_end": 37431,
-        "bosses_increase": 198
+        "bosses_end": 37443,
+        "bosses_increase": 210
+    },
+    {
+        "player_name": "peajib",
+        "week_start_date": "2025-09-01",
+        "raids_start": 1,
+        "raids_end": 1,
+        "raids_increase": 0,
+        "bosses_start": 18537,
+        "bosses_end": 18698,
+        "bosses_increase": 161
     },
     {
         "player_name": "daddy thor",
         "week_start_date": "2025-09-01",
         "raids_start": 7926,
-        "raids_end": 7959,
-        "raids_increase": 33,
+        "raids_end": 7966,
+        "raids_increase": 40,
         "bosses_start": 25207,
         "bosses_end": 25207,
         "bosses_increase": 0
@@ -196,8 +196,8 @@
         "raids_end": 579,
         "raids_increase": 19,
         "bosses_start": 17167,
-        "bosses_end": 17251,
-        "bosses_increase": 84
+        "bosses_end": 17267,
+        "bosses_increase": 100
     },
     {
         "player_name": "Kasmacku",
@@ -216,15 +216,15 @@
         "raids_end": 726,
         "raids_increase": 9,
         "bosses_start": 15827,
-        "bosses_end": 15888,
-        "bosses_increase": 61
+        "bosses_end": 15896,
+        "bosses_increase": 69
     },
     {
         "player_name": "Dub Tbow",
         "week_start_date": "2025-09-01",
         "raids_start": 2117,
-        "raids_end": 2154,
-        "raids_increase": 37,
+        "raids_end": 2155,
+        "raids_increase": 38,
         "bosses_start": 79761,
         "bosses_end": 79762,
         "bosses_increase": 1
@@ -236,8 +236,8 @@
         "raids_end": 1793,
         "raids_increase": 1,
         "bosses_start": 39162,
-        "bosses_end": 39270,
-        "bosses_increase": 108
+        "bosses_end": 39294,
+        "bosses_increase": 132
     },
     {
         "player_name": "solo_glow",
