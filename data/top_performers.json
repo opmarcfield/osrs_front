@@ -3,27 +3,27 @@
         "player_name": "Dre1",
         "week_start": "2025-09-15",
         "start_experience": 570451687,
-        "end_experience": 571257958,
-        "experience_gain": 806271
+        "end_experience": 572161830,
+        "experience_gain": 1710143
     },
     "top_raids_gain": {
-        "player_name": "Dre1",
+        "player_name": "daddy thor",
         "week_start_date": "2025-09-15",
-        "raids_start": 945,
-        "raids_end": 950,
-        "raids_increase": 5,
-        "bosses_start": 37667,
-        "bosses_end": 37667,
+        "raids_start": 8016,
+        "raids_end": 8030,
+        "raids_increase": 14,
+        "bosses_start": 25279,
+        "bosses_end": 25279,
         "bosses_increase": 0
     },
     "top_bosses_gain": {
-        "player_name": "0nlySpoonz",
+        "player_name": "Dub Tbow",
         "week_start_date": "2025-09-15",
-        "raids_start": 605,
-        "raids_end": 605,
-        "raids_increase": 0,
-        "bosses_start": 17399,
-        "bosses_end": 17429,
-        "bosses_increase": 30
+        "raids_start": 2187,
+        "raids_end": 2198,
+        "raids_increase": 11,
+        "bosses_start": 80003,
+        "bosses_end": 80104,
+        "bosses_increase": 101
     }
 }
