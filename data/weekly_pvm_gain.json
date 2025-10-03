@@ -10,6 +10,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Main Scaper",
+        "week_start_date": "2025-09-29",
+        "raids_start": 744,
+        "raids_end": 744,
+        "raids_increase": 0,
+        "bosses_start": 16156,
+        "bosses_end": 16237,
+        "bosses_increase": 81
+    },
+    {
         "player_name": "Hoarseness",
         "week_start_date": "2025-09-29",
         "raids_start": 325,
@@ -28,26 +38,6 @@
         "bosses_start": 25410,
         "bosses_end": 25411,
         "bosses_increase": 1
-    },
-    {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-09-29",
-        "raids_start": 647,
-        "raids_end": 651,
-        "raids_increase": 4,
-        "bosses_start": 17582,
-        "bosses_end": 17598,
-        "bosses_increase": 16
-    },
-    {
-        "player_name": "Main Scaper",
-        "week_start_date": "2025-09-29",
-        "raids_start": 744,
-        "raids_end": 744,
-        "raids_increase": 0,
-        "bosses_start": 16156,
-        "bosses_end": 16237,
-        "bosses_increase": 81
     },
     {
         "player_name": "BrutaIX",
@@ -90,6 +80,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Dre1",
+        "week_start_date": "2025-09-29",
+        "raids_start": 971,
+        "raids_end": 971,
+        "raids_increase": 0,
+        "bosses_start": 38203,
+        "bosses_end": 38510,
+        "bosses_increase": 307
+    },
+    {
         "player_name": "rocketdoggy",
         "week_start_date": "2025-09-29",
         "raids_start": 288,
@@ -97,26 +97,6 @@
         "raids_increase": 0,
         "bosses_start": 5120,
         "bosses_end": 5120,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "Dre1",
-        "week_start_date": "2025-09-29",
-        "raids_start": 971,
-        "raids_end": 971,
-        "raids_increase": 0,
-        "bosses_start": 38203,
-        "bosses_end": 38361,
-        "bosses_increase": 158
-    },
-    {
-        "player_name": "Se rena",
-        "week_start_date": "2025-09-29",
-        "raids_start": 198,
-        "raids_end": 198,
-        "raids_increase": 0,
-        "bosses_start": 12227,
-        "bosses_end": 12227,
         "bosses_increase": 0
     },
     {
@@ -180,6 +160,26 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2025-09-29",
+        "raids_start": 647,
+        "raids_end": 653,
+        "raids_increase": 6,
+        "bosses_start": 17582,
+        "bosses_end": 17600,
+        "bosses_increase": 18
+    },
+    {
+        "player_name": "Se rena",
+        "week_start_date": "2025-09-29",
+        "raids_start": 198,
+        "raids_end": 198,
+        "raids_increase": 0,
+        "bosses_start": 12227,
+        "bosses_end": 12227,
+        "bosses_increase": 0
+    },
+    {
         "player_name": "ArtiMeyer",
         "week_start_date": "2025-09-29",
         "raids_start": 147,
@@ -226,8 +226,8 @@
         "raids_end": 1799,
         "raids_increase": 0,
         "bosses_start": 39717,
-        "bosses_end": 39764,
-        "bosses_increase": 47
+        "bosses_end": 39765,
+        "bosses_increase": 48
     },
     {
         "player_name": "Pure Tristan",
