@@ -3,8 +3,8 @@
         "player_name": "Dre1",
         "week_start": "2025-09-29",
         "start_experience": 577498422,
-        "end_experience": 579335432,
-        "experience_gain": 1837010
+        "end_experience": 579517985,
+        "experience_gain": 2019563
     },
     "top_raids_gain": {
         "player_name": "0nlySpoonz",
@@ -20,10 +20,10 @@
         "player_name": "Dre1",
         "week_start_date": "2025-09-29",
         "raids_start": 971,
-        "raids_end": 971,
-        "raids_increase": 0,
+        "raids_end": 972,
+        "raids_increase": 1,
         "bosses_start": 38203,
-        "bosses_end": 38510,
-        "bosses_increase": 307
+        "bosses_end": 38531,
+        "bosses_increase": 328
     }
 }
