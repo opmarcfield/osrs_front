@@ -60,26 +60,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-10-06",
-        "raids_start": 653,
-        "raids_end": 658,
-        "raids_increase": 5,
-        "bosses_start": 17627,
-        "bosses_end": 17646,
-        "bosses_increase": 19
-    },
-    {
-        "player_name": "Main Scaper",
-        "week_start_date": "2025-10-06",
-        "raids_start": 744,
-        "raids_end": 744,
-        "raids_increase": 0,
-        "bosses_start": 16237,
-        "bosses_end": 16252,
-        "bosses_increase": 15
-    },
-    {
         "player_name": "Se rena",
         "week_start_date": "2025-10-06",
         "raids_start": 198,
@@ -100,6 +80,16 @@
         "bosses_increase": 0
     },
     {
+        "player_name": "Kasmacku",
+        "week_start_date": "2025-10-06",
+        "raids_start": 1,
+        "raids_end": 1,
+        "raids_increase": 0,
+        "bosses_start": 2067,
+        "bosses_end": 2067,
+        "bosses_increase": 0
+    },
+    {
         "player_name": "Sunneh",
         "week_start_date": "2025-10-06",
         "raids_start": -6,
@@ -117,16 +107,6 @@
         "raids_increase": 0,
         "bosses_start": 9700,
         "bosses_end": 9700,
-        "bosses_increase": 0
-    },
-    {
-        "player_name": "Kasmacku",
-        "week_start_date": "2025-10-06",
-        "raids_start": 1,
-        "raids_end": 1,
-        "raids_increase": 0,
-        "bosses_start": 2067,
-        "bosses_end": 2067,
         "bosses_increase": 0
     },
     {
@@ -180,16 +160,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "peajib",
-        "week_start_date": "2025-10-06",
-        "raids_start": 1,
-        "raids_end": 1,
-        "raids_increase": 0,
-        "bosses_start": 19646,
-        "bosses_end": 19685,
-        "bosses_increase": 39
-    },
-    {
         "player_name": "BrutaIX",
         "week_start_date": "2025-10-06",
         "raids_start": 114,
@@ -198,6 +168,16 @@
         "bosses_start": 5433,
         "bosses_end": 5433,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2025-10-06",
+        "raids_start": 653,
+        "raids_end": 660,
+        "raids_increase": 7,
+        "bosses_start": 17627,
+        "bosses_end": 17655,
+        "bosses_increase": 28
     },
     {
         "player_name": "Dub Tbow",
@@ -216,8 +196,8 @@
         "raids_end": 1799,
         "raids_increase": 0,
         "bosses_start": 39895,
-        "bosses_end": 39905,
-        "bosses_increase": 10
+        "bosses_end": 39933,
+        "bosses_increase": 38
     },
     {
         "player_name": "ThePatman",
@@ -226,8 +206,18 @@
         "raids_end": 279,
         "raids_increase": 0,
         "bosses_start": 10373,
-        "bosses_end": 10387,
-        "bosses_increase": 14
+        "bosses_end": 10397,
+        "bosses_increase": 24
+    },
+    {
+        "player_name": "peajib",
+        "week_start_date": "2025-10-06",
+        "raids_start": 1,
+        "raids_end": 1,
+        "raids_increase": 0,
+        "bosses_start": 19646,
+        "bosses_end": 19725,
+        "bosses_increase": 79
     },
     {
         "player_name": "X Skimo",
@@ -236,7 +226,17 @@
         "raids_end": -6,
         "raids_increase": 0,
         "bosses_start": 2092,
-        "bosses_end": 2133,
-        "bosses_increase": 41
+        "bosses_end": 2183,
+        "bosses_increase": 91
+    },
+    {
+        "player_name": "Main Scaper",
+        "week_start_date": "2025-10-06",
+        "raids_start": 744,
+        "raids_end": 744,
+        "raids_increase": 0,
+        "bosses_start": 16237,
+        "bosses_end": 16271,
+        "bosses_increase": 34
     }
 ]
