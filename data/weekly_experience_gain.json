@@ -10,29 +10,29 @@
         "player_name": "ThePatman",
         "week_start": "2025-10-06",
         "start_experience": 226542949,
-        "end_experience": 226920800,
-        "experience_gain": 377851
+        "end_experience": 227227324,
+        "experience_gain": 684375
     },
     {
         "player_name": "peajib",
         "week_start": "2025-10-06",
         "start_experience": 245171275,
-        "end_experience": 246075132,
-        "experience_gain": 903857
+        "end_experience": 246189856,
+        "experience_gain": 1018581
     },
     {
         "player_name": "X Skimo",
         "week_start": "2025-10-06",
         "start_experience": 282980868,
-        "end_experience": 284157911,
-        "experience_gain": 1177043
+        "end_experience": 284871968,
+        "experience_gain": 1891100
     },
     {
         "player_name": "Pure Tristan",
         "week_start": "2025-10-06",
         "start_experience": 559396420,
-        "end_experience": 560365358,
-        "experience_gain": 968938
+        "end_experience": 560804899,
+        "experience_gain": 1408479
     },
     {
         "player_name": "Kasmacku",
@@ -52,29 +52,29 @@
         "player_name": "SquatJogsBro",
         "week_start": "2025-10-06",
         "start_experience": 343166281,
-        "end_experience": 343274271,
-        "experience_gain": 107990
-    },
-    {
-        "player_name": "Dub Tbow",
-        "week_start": "2025-10-06",
-        "start_experience": 950437429,
-        "end_experience": 950682830,
-        "experience_gain": 245401
-    },
-    {
-        "player_name": "GetPurpz",
-        "week_start": "2025-10-06",
-        "start_experience": 517163627,
-        "end_experience": 517884728,
-        "experience_gain": 721101
+        "end_experience": 343343043,
+        "experience_gain": 176762
     },
     {
         "player_name": "Dre1",
         "week_start": "2025-10-06",
         "start_experience": 579563027,
-        "end_experience": 580166507,
-        "experience_gain": 603480
+        "end_experience": 580629244,
+        "experience_gain": 1066217
+    },
+    {
+        "player_name": "Dub Tbow",
+        "week_start": "2025-10-06",
+        "start_experience": 950437429,
+        "end_experience": 950960276,
+        "experience_gain": 522847
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start": "2025-10-06",
+        "start_experience": 517163627,
+        "end_experience": 518002160,
+        "experience_gain": 838533
     },
     {
         "player_name": "BrutaIX",
@@ -136,22 +136,22 @@
         "player_name": "daddy thor",
         "week_start": "2025-10-06",
         "start_experience": 852096687,
-        "end_experience": 852959475,
-        "experience_gain": 862788
+        "end_experience": 853268788,
+        "experience_gain": 1172101
     },
     {
         "player_name": "W0nderbrad",
         "week_start": "2025-10-06",
         "start_experience": 153304676,
-        "end_experience": 153304676,
-        "experience_gain": 0
+        "end_experience": 153331551,
+        "experience_gain": 26875
     },
     {
         "player_name": "Main Scaper",
         "week_start": "2025-10-06",
         "start_experience": 471003804,
-        "end_experience": 471076707,
-        "experience_gain": 72903
+        "end_experience": 471083423,
+        "experience_gain": 79619
     },
     {
         "player_name": "nodle boy",
@@ -164,7 +164,7 @@
         "player_name": "0nlySpoonz",
         "week_start": "2025-10-06",
         "start_experience": 260119328,
-        "end_experience": 260883367,
-        "experience_gain": 764039
+        "end_experience": 261079558,
+        "experience_gain": 960230
     }
 ]
