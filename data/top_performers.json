@@ -3,8 +3,8 @@
         "player_name": "X Skimo",
         "week_start": "2025-10-06",
         "start_experience": 282980868,
-        "end_experience": 285437226,
-        "experience_gain": 2456358
+        "end_experience": 286172101,
+        "experience_gain": 3191233
     },
     "top_raids_gain": {
         "player_name": "0nlySpoonz",
@@ -23,7 +23,7 @@
         "raids_end": -6,
         "raids_increase": 0,
         "bosses_start": 2092,
-        "bosses_end": 2319,
-        "bosses_increase": 227
+        "bosses_end": 2320,
+        "bosses_increase": 228
     }
 }
