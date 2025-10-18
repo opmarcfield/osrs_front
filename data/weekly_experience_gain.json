@@ -1,5 +1,12 @@
 [
     {
+        "player_name": "X Skimo",
+        "week_start": "2025-10-13",
+        "start_experience": 286246556,
+        "end_experience": 287178532,
+        "experience_gain": 931976
+    },
+    {
         "player_name": "rocketdoggy",
         "week_start": "2025-10-13",
         "start_experience": 209789408,
@@ -7,25 +14,18 @@
         "experience_gain": 19660
     },
     {
-        "player_name": "X Skimo",
-        "week_start": "2025-10-13",
-        "start_experience": 286246556,
-        "end_experience": 286975433,
-        "experience_gain": 728877
-    },
-    {
         "player_name": "daddy thor",
         "week_start": "2025-10-13",
         "start_experience": 853843788,
-        "end_experience": 854796838,
-        "experience_gain": 953050
+        "end_experience": 855002954,
+        "experience_gain": 1159166
     },
     {
         "player_name": "0nlySpoonz",
         "week_start": "2025-10-13",
         "start_experience": 262696487,
-        "end_experience": 264310578,
-        "experience_gain": 1614091
+        "end_experience": 264621212,
+        "experience_gain": 1924725
     },
     {
         "player_name": "Kasmacku",
@@ -35,18 +35,18 @@
         "experience_gain": 35
     },
     {
-        "player_name": "Logannen",
-        "week_start": "2025-10-13",
-        "start_experience": 106834805,
-        "end_experience": 106834805,
-        "experience_gain": 0
-    },
-    {
         "player_name": "Dre1",
         "week_start": "2025-10-13",
         "start_experience": 581089591,
         "end_experience": 581565829,
         "experience_gain": 476238
+    },
+    {
+        "player_name": "Logannen",
+        "week_start": "2025-10-13",
+        "start_experience": 106834805,
+        "end_experience": 106834805,
+        "experience_gain": 0
     },
     {
         "player_name": "W0nderbrad",
@@ -59,8 +59,8 @@
         "player_name": "Main Scaper",
         "week_start": "2025-10-13",
         "start_experience": 471200021,
-        "end_experience": 471347943,
-        "experience_gain": 147922
+        "end_experience": 471379321,
+        "experience_gain": 179300
     },
     {
         "player_name": "LurpakShakur",
@@ -94,8 +94,8 @@
         "player_name": "Pure Tristan",
         "week_start": "2025-10-13",
         "start_experience": 561805404,
-        "end_experience": 562999224,
-        "experience_gain": 1193820
+        "end_experience": 563097722,
+        "experience_gain": 1292318
     },
     {
         "player_name": "BrutaIX",
@@ -115,22 +115,22 @@
         "player_name": "GetPurpz",
         "week_start": "2025-10-13",
         "start_experience": 518595691,
-        "end_experience": 521001034,
-        "experience_gain": 2405343
+        "end_experience": 521686694,
+        "experience_gain": 3091003
     },
     {
         "player_name": "ArtiMeyer",
         "week_start": "2025-10-13",
         "start_experience": 301282324,
-        "end_experience": 301344240,
-        "experience_gain": 61916
+        "end_experience": 301593302,
+        "experience_gain": 310978
     },
     {
         "player_name": "interwebfrog",
         "week_start": "2025-10-13",
         "start_experience": 227920838,
-        "end_experience": 227920838,
-        "experience_gain": 0
+        "end_experience": 227920906,
+        "experience_gain": 68
     },
     {
         "player_name": "nodle boy",
@@ -140,18 +140,18 @@
         "experience_gain": 0
     },
     {
-        "player_name": "solo_glow",
-        "week_start": "2025-10-13",
-        "start_experience": 153693839,
-        "end_experience": 153693839,
-        "experience_gain": 0
-    },
-    {
         "player_name": "Dub Tbow",
         "week_start": "2025-10-13",
         "start_experience": 951076536,
         "end_experience": 951288296,
         "experience_gain": 211760
+    },
+    {
+        "player_name": "solo_glow",
+        "week_start": "2025-10-13",
+        "start_experience": 153693839,
+        "end_experience": 153693839,
+        "experience_gain": 0
     },
     {
         "player_name": "SquatJogsBro",
