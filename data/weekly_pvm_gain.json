@@ -20,16 +20,6 @@
         "bosses_increase": 0
     },
     {
-        "player_name": "0nlySpoonz",
-        "week_start_date": "2025-10-20",
-        "raids_start": 2437,
-        "raids_end": 2443,
-        "raids_increase": 6,
-        "bosses_start": 15783,
-        "bosses_end": 15785,
-        "bosses_increase": 2
-    },
-    {
         "player_name": "Dub Tbow",
         "week_start_date": "2025-10-20",
         "raids_start": 10307,
@@ -86,8 +76,8 @@
         "raids_end": 4690,
         "raids_increase": 0,
         "bosses_start": 32560,
-        "bosses_end": 32560,
-        "bosses_increase": 0
+        "bosses_end": 32585,
+        "bosses_increase": 25
     },
     {
         "player_name": "SquatJogsBro",
@@ -108,16 +98,6 @@
         "bosses_start": 2481,
         "bosses_end": 2481,
         "bosses_increase": 0
-    },
-    {
-        "player_name": "GetPurpz",
-        "week_start_date": "2025-10-20",
-        "raids_start": 3897,
-        "raids_end": 3898,
-        "raids_increase": 1,
-        "bosses_start": 37185,
-        "bosses_end": 37271,
-        "bosses_increase": 86
     },
     {
         "player_name": "BrutaIX",
@@ -183,8 +163,8 @@
         "player_name": "daddy thor",
         "week_start_date": "2025-10-20",
         "raids_start": 10020,
-        "raids_end": 10034,
-        "raids_increase": 14,
+        "raids_end": 10036,
+        "raids_increase": 16,
         "bosses_start": 20947,
         "bosses_end": 20955,
         "bosses_increase": 8
@@ -198,6 +178,26 @@
         "bosses_start": 2553,
         "bosses_end": 2553,
         "bosses_increase": 0
+    },
+    {
+        "player_name": "0nlySpoonz",
+        "week_start_date": "2025-10-20",
+        "raids_start": 2437,
+        "raids_end": 2444,
+        "raids_increase": 7,
+        "bosses_start": 15783,
+        "bosses_end": 15785,
+        "bosses_increase": 2
+    },
+    {
+        "player_name": "GetPurpz",
+        "week_start_date": "2025-10-20",
+        "raids_start": 3897,
+        "raids_end": 3898,
+        "raids_increase": 1,
+        "bosses_start": 37185,
+        "bosses_end": 37350,
+        "bosses_increase": 165
     },
     {
         "player_name": "ThePatman",
@@ -226,8 +226,8 @@
         "raids_end": 564,
         "raids_increase": 0,
         "bosses_start": 8230,
-        "bosses_end": 8231,
-        "bosses_increase": 1
+        "bosses_end": 8246,
+        "bosses_increase": 16
     },
     {
         "player_name": "Sunneh",
