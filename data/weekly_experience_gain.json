@@ -10,15 +10,15 @@
         "player_name": "Dre1",
         "week_start": "2025-10-20",
         "start_experience": 581565829,
-        "end_experience": 582000663,
-        "experience_gain": 434834
+        "end_experience": 582377977,
+        "experience_gain": 812148
     },
     {
         "player_name": "daddy thor",
         "week_start": "2025-10-20",
         "start_experience": 855741014,
-        "end_experience": 856741374,
-        "experience_gain": 1000360
+        "end_experience": 856889846,
+        "experience_gain": 1148832
     },
     {
         "player_name": "Kasmacku",
@@ -45,8 +45,8 @@
         "player_name": "Pure Tristan",
         "week_start": "2025-10-20",
         "start_experience": 564184243,
-        "end_experience": 564707381,
-        "experience_gain": 523138
+        "end_experience": 565375273,
+        "experience_gain": 1191030
     },
     {
         "player_name": "nodle boy",
@@ -59,8 +59,8 @@
         "player_name": "GetPurpz",
         "week_start": "2025-10-20",
         "start_experience": 521918039,
-        "end_experience": 523605466,
-        "experience_gain": 1687427
+        "end_experience": 524136675,
+        "experience_gain": 2218636
     },
     {
         "player_name": "peajib",
@@ -80,8 +80,8 @@
         "player_name": "Main Scaper",
         "week_start": "2025-10-20",
         "start_experience": 471530958,
-        "end_experience": 472234816,
-        "experience_gain": 703858
+        "end_experience": 472371966,
+        "experience_gain": 841008
     },
     {
         "player_name": "Sunneh",
@@ -122,8 +122,8 @@
         "player_name": "X Skimo",
         "week_start": "2025-10-20",
         "start_experience": 288313753,
-        "end_experience": 289978943,
-        "experience_gain": 1665190
+        "end_experience": 290222857,
+        "experience_gain": 1909104
     },
     {
         "player_name": "Logannen",
@@ -157,14 +157,14 @@
         "player_name": "0nlySpoonz",
         "week_start": "2025-10-20",
         "start_experience": 265390469,
-        "end_experience": 266334458,
-        "experience_gain": 943989
+        "end_experience": 266553451,
+        "experience_gain": 1162982
     },
     {
         "player_name": "ArtiMeyer",
         "week_start": "2025-10-20",
         "start_experience": 301937476,
-        "end_experience": 302774092,
-        "experience_gain": 836616
+        "end_experience": 302834110,
+        "experience_gain": 896634
     }
 ]
