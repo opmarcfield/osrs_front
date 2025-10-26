@@ -10,11 +10,11 @@
         "player_name": "daddy thor",
         "week_start_date": "2025-10-20",
         "raids_start": 10020,
-        "raids_end": 10044,
-        "raids_increase": 24,
+        "raids_end": 10050,
+        "raids_increase": 30,
         "bosses_start": 20947,
-        "bosses_end": 20955,
-        "bosses_increase": 8
+        "bosses_end": 20975,
+        "bosses_increase": 28
     },
     "top_bosses_gain": {
         "player_name": "GetPurpz",
