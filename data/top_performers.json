@@ -1,29 +1,29 @@
 {
     "top_xp_gain": {
-        "player_name": "GetPurpz",
+        "player_name": "X Skimo",
         "week_start": "2025-10-20",
-        "start_experience": 521918039,
-        "end_experience": 524563450,
-        "experience_gain": 2645411
+        "start_experience": 291228734,
+        "end_experience": 291228734,
+        "experience_gain": 2914981
     },
     "top_raids_gain": {
         "player_name": "daddy thor",
         "week_start_date": "2025-10-20",
-        "raids_start": 10020,
-        "raids_end": 10050,
-        "raids_increase": 30,
-        "bosses_start": 20947,
-        "bosses_end": 20975,
-        "bosses_increase": 28
+        "raids_start": 10062,
+        "raids_end": 10062,
+        "raids_increase": 42,
+        "bosses_start": 20986,
+        "bosses_end": 20986,
+        "bosses_increase": 39
     },
     "top_bosses_gain": {
         "player_name": "GetPurpz",
         "week_start_date": "2025-10-20",
-        "raids_start": 3897,
+        "raids_start": 3898,
         "raids_end": 3898,
         "raids_increase": 1,
-        "bosses_start": 37185,
-        "bosses_end": 37452,
-        "bosses_increase": 267
+        "bosses_start": 37454,
+        "bosses_end": 37454,
+        "bosses_increase": 269
     }
 }
