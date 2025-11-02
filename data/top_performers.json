@@ -10,8 +10,8 @@
         "player_name": "vaOPA",
         "week_start_date": "2025-10-27",
         "raids_start": 128,
-        "raids_end": 185,
-        "raids_increase": 57,
+        "raids_end": 228,
+        "raids_increase": 100,
         "bosses_start": 5399,
         "bosses_end": 5465,
         "bosses_increase": 66
@@ -23,7 +23,7 @@
         "raids_end": 3898,
         "raids_increase": 0,
         "bosses_start": 37454,
-        "bosses_end": 37771,
-        "bosses_increase": 317
+        "bosses_end": 37787,
+        "bosses_increase": 333
     }
 }
