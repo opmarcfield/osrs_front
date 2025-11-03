@@ -1,20 +1,20 @@
 {
     "top_xp_gain": {
-        "player_name": "cute scaper",
+        "player_name": "Brutalmore",
         "week_start": "2025-10-27",
-        "start_experience": 0,
-        "end_experience": 2971888,
-        "experience_gain": 2971888
+        "start_experience": 67134190,
+        "end_experience": 67134190,
+        "experience_gain": 3414275
     },
     "top_raids_gain": {
         "player_name": "vaOPA",
         "week_start_date": "2025-10-27",
-        "raids_start": 128,
-        "raids_end": 228,
-        "raids_increase": 100,
-        "bosses_start": 5399,
-        "bosses_end": 5465,
-        "bosses_increase": 66
+        "raids_start": 254,
+        "raids_end": 254,
+        "raids_increase": 126,
+        "bosses_start": 5492,
+        "bosses_end": 5492,
+        "bosses_increase": 93
     },
     "top_bosses_gain": {
         "player_name": "GetPurpz",
@@ -22,8 +22,8 @@
         "raids_start": 3898,
         "raids_end": 3898,
         "raids_increase": 0,
-        "bosses_start": 37454,
-        "bosses_end": 37787,
-        "bosses_increase": 333
+        "bosses_start": 37794,
+        "bosses_end": 37794,
+        "bosses_increase": 340
     }
 }
