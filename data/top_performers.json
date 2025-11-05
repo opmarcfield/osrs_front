@@ -3,8 +3,8 @@
         "player_name": "ironicfroggo",
         "week_start": "2025-11-03",
         "start_experience": 228043201,
-        "end_experience": 229013985,
-        "experience_gain": 970784
+        "end_experience": 230494759,
+        "experience_gain": 2451558
     },
     "top_raids_gain": {
         "player_name": "vaOPA",
@@ -13,17 +13,17 @@
         "raids_end": 312,
         "raids_increase": 58,
         "bosses_start": 5492,
-        "bosses_end": 5541,
-        "bosses_increase": 49
+        "bosses_end": 5657,
+        "bosses_increase": 165
     },
     "top_bosses_gain": {
-        "player_name": "Brutalmore",
+        "player_name": "vaOPA",
         "week_start_date": "2025-11-03",
-        "raids_start": 13,
-        "raids_end": 13,
-        "raids_increase": 0,
-        "bosses_start": 1958,
-        "bosses_end": 2039,
-        "bosses_increase": 81
+        "raids_start": 254,
+        "raids_end": 312,
+        "raids_increase": 58,
+        "bosses_start": 5492,
+        "bosses_end": 5657,
+        "bosses_increase": 165
     }
 }
