@@ -3,15 +3,15 @@
         "player_name": "vaOPA",
         "week_start": "2025-11-03",
         "start_experience": 107745808,
-        "end_experience": 112345201,
-        "experience_gain": 4599393
+        "end_experience": 112880732,
+        "experience_gain": 5134924
     },
     "top_raids_gain": {
         "player_name": "daddy Thor",
         "week_start_date": "2025-11-03",
         "raids_start": 7127,
-        "raids_end": 10100,
-        "raids_increase": 2973,
+        "raids_end": 10125,
+        "raids_increase": 2998,
         "bosses_start": 21144,
         "bosses_end": 24053,
         "bosses_increase": 2909
@@ -20,8 +20,8 @@
         "player_name": "daddy Thor",
         "week_start_date": "2025-11-03",
         "raids_start": 7127,
-        "raids_end": 10100,
-        "raids_increase": 2973,
+        "raids_end": 10125,
+        "raids_increase": 2998,
         "bosses_start": 21144,
         "bosses_end": 24053,
         "bosses_increase": 2909
